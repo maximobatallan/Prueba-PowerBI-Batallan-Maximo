@@ -1,0 +1,2189 @@
+﻿id_usuario,fechas_de_nacimiento,ciudad,nivel_educativo,Sueldo
+98258,1986-01-30 05:00:00,Santiago,Profesional - Licenciatura,290956
+98259,1973-10-16 05:00:00,Santiago,Especializacion - Postgrado,337095
+98260,1989-05-08 05:00:00,Santiago,Profesional - Licenciatura,278192
+98261,1990-01-18 05:00:00,Santiago,Tecnico Universitario,279184
+98262,1993-10-20 05:00:00,Santiago,Profesional - Licenciatura,80249
+98263,1978-05-18 05:00:00,Santiago,Profesional - Licenciatura,268895
+98265,1982-12-03 05:00:00,Santiago,Profesional - Licenciatura,301652
+98268,1990-10-12 05:00:00,Santiago,Tecnico Universitario,275251
+98269,1984-01-04 05:00:00,Santiago,Profesional - Licenciatura,147292
+98270,1969-05-15 05:00:00,Santiago,Profesional - Licenciatura,314649
+98271,1994-02-18 05:00:00,Santiago,Especializacion - Postgrado,132113
+98273,1984-04-13 05:00:00,Santiago,Profesional - Licenciatura,222011
+98274,1991-02-02 05:00:00,Santiago,Tecnico Universitario,224590
+98275,1978-05-19 05:00:00,Santiago,Especializacion - Postgrado,229767
+98276,1981-08-16 05:00:00,Santiago,Especializacion - Postgrado,253762
+98278,1982-02-27 05:00:00,Santiago,Maestria,68571
+98279,1992-11-06 05:00:00,Santiago,Profesional - Licenciatura,128264
+98280,1983-05-19 05:00:00,Santiago,Profesional - Licenciatura,204889
+98281,1994-07-25 05:00:00,Santiago,Profesional - Licenciatura,312365
+98282,1970-08-11 05:00:00,Santiago,Tecnico Universitario,269326
+98283,1985-05-30 05:00:00,Santiago,Maestria,170199
+98284,1985-08-19 05:00:00,Santiago,Profesional - Licenciatura,302143
+98285,1983-05-25 05:00:00,Santiago,Especializacion - Postgrado,101071
+98286,1987-09-02 05:00:00,Santiago,Profesional - Licenciatura,152329
+98287,1981-12-25 05:00:00,Santiago,Profesional - Licenciatura,210578
+98289,1988-03-15 05:00:00,Santiago,Tecnico Universitario,292090
+98290,1989-08-18 05:00:00,Santiago,Profesional - Licenciatura,224169
+98291,1991-06-20 05:00:00,Santiago,Profesional - Licenciatura,222105
+98292,1984-01-21 05:00:00,Santiago,Profesional - Licenciatura,230356
+98293,1980-03-03 05:00:00,Santiago,Profesional - Licenciatura,176492
+98295,1996-03-20 05:00:00,Santiago,Profesional - Licenciatura,231591
+98297,1986-10-10 05:00:00,Santiago,Profesional - Licenciatura,86243
+98298,1984-06-09 05:00:00,Santiago,Profesional - Licenciatura,161500
+98299,1984-12-28 05:00:00,Santiago,Especializacion - Postgrado,96681
+98300,1982-09-06 05:00:00,Santiago,Profesional - Licenciatura,179487
+98301,1982-11-25 05:00:00,Santiago,Profesional - Licenciatura,106503
+98302,1985-03-11 05:00:00,Santiago,Profesional - Licenciatura,69139
+98304,1989-02-10 05:00:00,Santiago,Profesional - Licenciatura,328646
+98305,1994-06-09 05:00:00,Santiago,Especializacion - Postgrado,254630
+98306,1985-03-22 05:00:00,Santiago,Profesional - Licenciatura,72717
+98307,1983-10-14 05:00:00,Santiago,Profesional - Licenciatura,276130
+98308,1986-06-14 05:00:00,Santiago,Profesional - Licenciatura,114095
+98309,1986-12-28 05:00:00,Santiago,Tecnico Universitario,93249
+98310,1962-02-03 05:00:00,Santiago,Tecnico Universitario,296806
+98311,1989-05-31 05:00:00,Santiago,Profesional - Licenciatura,218871
+98312,1992-10-29 05:00:00,Santiago,Especializacion - Postgrado,344178
+98313,1976-11-19 05:00:00,Santiago,Maestria,138487
+98314,1985-03-27 05:00:00,Santiago,Tecnico Universitario,75465
+98316,1988-12-06 05:00:00,Santiago,Profesional - Licenciatura,83019
+98317,1971-11-20 05:00:00,Santiago,Profesional - Licenciatura,237953
+98319,1987-12-17 05:00:00,Santiago,Profesional - Licenciatura,82193
+98321,1982-05-11 05:00:00,Santiago,Profesional - Licenciatura,324696
+98322,1993-04-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,80599
+98323,1975-02-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,158502
+98324,1987-05-27 05:00:00,Santiago,Especializacion - Postgrado,79825
+98325,1979-08-13 05:00:00,Santiago,Especializacion - Postgrado,254661
+98326,1986-06-23 05:00:00,Santiago,Profesional - Licenciatura,303253
+98327,1991-08-25 05:00:00,Santiago,Profesional - Licenciatura,345654
+98328,1984-05-08 05:00:00,Santiago,Especializacion - Postgrado,320586
+98329,1980-08-24 05:00:00,Santiago,Tecnico Universitario,289418
+98330,1988-05-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,98022
+98331,1993-10-20 05:00:00,Santiago,Profesional - Licenciatura,191342
+98332,1994-11-03 05:00:00,Santiago,Profesional - Licenciatura,177427
+98334,1986-11-10 05:00:00,Santiago,Especializacion - Postgrado,298262
+98335,1990-06-01 05:00:00,Santiago,Profesional - Licenciatura,221416
+98337,1985-09-29 05:00:00,Santiago,Profesional - Licenciatura,102261
+98338,1983-05-22 05:00:00,Santiago,Profesional - Licenciatura,326445
+98339,1968-10-09 05:00:00,Santiago,Profesional - Licenciatura,279884
+98340,1980-12-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,341747
+98341,1990-12-26 05:00:00,Santiago,Profesional - Licenciatura,227644
+98342,1984-06-25 05:00:00,Santiago,Especializacion - Postgrado,252993
+98343,1988-06-16 05:00:00,Santiago,Profesional - Licenciatura,72851
+98344,1990-03-18 05:00:00,Santiago,Profesional - Licenciatura,250684
+98346,2020-01-18 05:00:00,Santiago,Profesional - Licenciatura,225396
+98347,1977-10-28 05:00:00,Santiago,Profesional - Licenciatura,107353
+98349,1982-01-02 05:00:00,Santiago,Profesional - Licenciatura,226647
+98350,1975-10-28 05:00:00,Santiago,Profesional - Licenciatura,300964
+98351,1986-03-20 05:00:00,Santiago,Profesional - Licenciatura,150163
+98352,1974-01-04 05:00:00,Santiago,Profesional - Licenciatura,226828
+98353,1992-07-10 05:00:00,Santiago,Profesional - Licenciatura,293069
+98354,1987-01-13 05:00:00,Santiago,Especializacion - Postgrado,264150
+98355,1977-05-20 05:00:00,Santiago,Profesional - Licenciatura,84371
+98356,1991-01-24 05:00:00,Santiago,Profesional - Licenciatura,297293
+98357,1971-01-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,78507
+98360,1976-09-03 05:00:00,Santiago,Maestria,102172
+98361,1988-03-16 05:00:00,Santiago,Profesional - Licenciatura,306201
+98362,1977-07-13 05:00:00,Santiago,Tecnico Universitario,205590
+98363,1978-12-26 05:00:00,Santiago,Profesional - Licenciatura,173196
+98364,1991-07-13 05:00:00,Santiago,Profesional - Licenciatura,330887
+98365,1987-03-03 05:00:00,Santiago,Profesional - Licenciatura,285588
+98366,1984-10-24 05:00:00,Santiago,Especializacion - Postgrado,285972
+98367,1983-01-29 05:00:00,Santiago,Especializacion - Postgrado,278366
+98368,1986-07-30 05:00:00,Santiago,Profesional - Licenciatura,223538
+98369,1977-09-21 05:00:00,Santiago,Maestria,289981
+98370,1977-11-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,346493
+98371,1993-10-28 05:00:00,Santiago,Profesional - Licenciatura,106063
+98372,1986-04-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,84293
+98373,1974-12-27 05:00:00,Santiago,Profesional - Licenciatura,239842
+98374,1973-02-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,319551
+98375,1975-01-11 05:00:00,Santiago,Profesional - Licenciatura,330113
+98376,1990-02-06 05:00:00,Santiago,Profesional - Licenciatura,278286
+98377,1976-03-18 05:00:00,Santiago,Profesional - Licenciatura,284703
+98378,1973-05-14 05:00:00,Santiago,Profesional - Licenciatura,217089
+98379,1986-08-19 05:00:00,Santiago,Profesional - Licenciatura,157409
+98380,1970-06-18 05:00:00,Santiago,Profesional - Licenciatura,230204
+98381,1979-02-20 05:00:00,Santiago,Tecnico Universitario,306999
+98384,1963-06-24 05:00:00,Santiago,Profesional - Licenciatura,334212
+98386,1990-10-02 05:00:00,Santiago,Profesional - Licenciatura,323398
+98387,1979-02-04 05:00:00,Santiago,Profesional - Licenciatura,315612
+98388,1996-09-27 05:00:00,Santiago,Profesional - Licenciatura,189531
+98389,1972-09-08 05:00:00,Santiago,Profesional - Licenciatura,264397
+98391,1987-03-31 05:00:00,Santiago,Profesional - Licenciatura,349066
+98392,1993-02-04 05:00:00,Santiago,Profesional - Licenciatura,176483
+98393,1982-10-03 05:00:00,Santiago,Profesional - Licenciatura,121470
+98394,1978-11-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,303805
+98395,1977-08-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,189834
+98398,1980-12-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,105413
+98399,1981-02-11 05:00:00,Santiago,Profesional - Licenciatura,260899
+98401,1987-12-16 05:00:00,Santiago,Especializacion - Postgrado,76615
+98402,1985-05-10 05:00:00,Santiago,Maestria,333970
+98403,1982-06-17 05:00:00,Santiago,Profesional - Licenciatura,101983
+98404,1982-04-15 05:00:00,Santiago,Profesional - Licenciatura,278036
+98405,1990-05-18 05:00:00,Santiago,Profesional - Licenciatura,168189
+98406,1972-11-01 05:00:00,Santiago,Tecnico Universitario,94278
+98408,1988-09-01 05:00:00,Santiago,Profesional - Licenciatura,269473
+98409,1990-05-04 05:00:00,Santiago,Profesional - Licenciatura,164947
+98411,1978-11-10 05:00:00,Santiago,Profesional - Licenciatura,347914
+98412,1993-09-23 05:00:00,Santiago,Maestria,348230
+98413,1981-12-22 05:00:00,Santiago,Especializacion - Postgrado,257651
+98414,1985-03-09 05:00:00,Santiago,Tecnico Universitario,292148
+98415,1990-07-13 05:00:00,Santiago,Profesional - Licenciatura,267233
+98416,1977-08-23 05:00:00,Santiago,Profesional - Licenciatura,302160
+98417,1993-12-04 05:00:00,Santiago,Profesional - Licenciatura,319611
+98418,1976-08-25 05:00:00,Santiago,Tecnico Universitario,78096
+98422,1963-05-22 05:00:00,Santiago,Especializacion - Postgrado,222544
+98423,1978-04-03 05:00:00,Santiago,Especializacion - Postgrado,169783
+98424,1969-10-19 05:00:00,Santiago,Profesional - Licenciatura,244661
+98426,1983-03-03 05:00:00,Santiago,Profesional - Licenciatura,344895
+98427,1980-10-26 05:00:00,Santiago,Profesional - Licenciatura,325421
+98428,1987-03-12 05:00:00,Santiago,Especializacion - Postgrado,80270
+98429,1989-11-22 05:00:00,Santiago,Profesional - Licenciatura,209819
+98430,1993-07-12 05:00:00,Santiago,Profesional - Licenciatura,324431
+98432,1990-12-07 05:00:00,Santiago,Profesional - Licenciatura,183432
+98433,1981-04-14 05:00:00,Santiago,Profesional - Licenciatura,317204
+98436,1990-12-12 05:00:00,Santiago,Profesional - Licenciatura,296102
+98440,1987-06-22 05:00:00,Santiago,Profesional - Licenciatura,148021
+98441,1986-05-06 05:00:00,Santiago,Profesional - Licenciatura,289499
+98443,1981-05-07 05:00:00,Santiago,Profesional - Licenciatura,150725
+98444,1980-02-28 05:00:00,Santiago,Profesional - Licenciatura,312460
+98445,1990-09-24 05:00:00,Santiago,Profesional - Licenciatura,283685
+98446,1986-02-10 05:00:00,Santiago,Profesional - Licenciatura,164074
+98447,1995-08-19 05:00:00,Santiago,Especializacion - Postgrado,249065
+98448,1991-06-17 05:00:00,Santiago,Profesional - Licenciatura,174916
+98449,1988-03-15 05:00:00,Santiago,Profesional - Licenciatura,345564
+98450,1987-08-15 05:00:00,Santiago,Maestria,152191
+98451,1979-08-22 05:00:00,Santiago,Profesional - Licenciatura,226107
+98454,1987-11-27 05:00:00,Santiago,Profesional - Licenciatura,275184
+98455,1983-10-19 05:00:00,Santiago,Profesional - Licenciatura,304331
+98456,1994-06-16 05:00:00,Santiago,Profesional - Licenciatura,224635
+98457,1980-02-11 05:00:00,Santiago,Profesional - Licenciatura,179404
+98458,1975-06-20 05:00:00,Santiago,Profesional - Licenciatura,331890
+98459,1961-11-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,269569
+98460,1984-10-30 05:00:00,Santiago,Profesional - Licenciatura,245304
+98461,1989-04-11 05:00:00,Santiago,Profesional - Licenciatura,299870
+98462,1978-12-30 05:00:00,Santiago,Bachillerato - Secundaria,93253
+98463,1973-08-26 05:00:00,Santiago,Profesional - Licenciatura,115607
+98465,1970-03-23 05:00:00,Santiago,Profesional - Licenciatura,206553
+98466,1989-05-26 05:00:00,Santiago,Profesional - Licenciatura,143344
+98468,1994-06-04 05:00:00,Santiago,Tecnico Universitario,189049
+98470,1984-04-17 05:00:00,Santiago,Profesional - Licenciatura,340913
+98472,1976-07-28 05:00:00,Santiago,Maestria,74650
+98473,1991-02-03 05:00:00,Santiago,Profesional - Licenciatura,101965
+98474,1986-10-07 05:00:00,Santiago,Profesional - Licenciatura,79195
+98475,1979-11-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,152921
+98476,1988-10-04 05:00:00,Santiago,Profesional - Licenciatura,142417
+98477,1982-01-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,100570
+98478,1990-10-29 05:00:00,Santiago,Profesional - Licenciatura,263203
+98479,1985-05-04 05:00:00,Santiago,Maestria,99147
+98480,1985-10-29 05:00:00,Santiago,Profesional - Licenciatura,265695
+98481,1974-03-18 05:00:00,Santiago,Especializacion - Postgrado,173643
+98483,1992-06-17 05:00:00,Santiago,Bachillerato - Secundaria,261064
+98484,1987-07-22 05:00:00,Santiago,Profesional - Licenciatura,274024
+98486,1978-09-29 05:00:00,Santiago,Profesional - Licenciatura,154838
+98488,1979-04-04 05:00:00,Santiago,Especializacion - Postgrado,284650
+98489,1983-11-18 05:00:00,Santiago,Especializacion - Postgrado,121990
+98491,1979-11-02 05:00:00,Santiago,Profesional - Licenciatura,245700
+98492,1987-10-03 05:00:00,Santiago,Especializacion - Postgrado,85248
+98495,1976-10-30 05:00:00,Santiago,Profesional - Licenciatura,315838
+98497,1985-04-17 05:00:00,Santiago,Profesional - Licenciatura,187173
+98498,1983-07-25 05:00:00,Santiago,Profesional - Licenciatura,136451
+98499,1978-02-16 05:00:00,Santiago,Tecnico Universitario,243274
+98501,1983-04-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,326710
+98502,1979-01-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,183248
+98504,1980-03-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,268836
+98505,1986-08-02 05:00:00,Santiago,Profesional - Licenciatura,136716
+98506,1974-08-05 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,316614
+98507,1985-09-16 05:00:00,Santiago,Profesional - Licenciatura,203618
+98508,1990-12-18 05:00:00,Santiago,Profesional - Licenciatura,193195
+98509,1976-06-25 05:00:00,Santiago,Profesional - Licenciatura,203687
+98510,1984-11-08 05:00:00,Santiago,Profesional - Licenciatura,290825
+98511,1985-04-07 05:00:00,Santiago,Profesional - Licenciatura,331296
+98513,1993-07-22 05:00:00,Santiago,Especializacion - Postgrado,188083
+98515,1975-02-19 05:00:00,Santiago,Tecnico Universitario,142988
+98516,1991-09-16 05:00:00,Santiago,Profesional - Licenciatura,197939
+98517,1995-05-01 05:00:00,Santiago,Profesional - Licenciatura,81140
+98518,1980-10-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,196753
+98519,1984-04-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,216897
+98520,1987-09-11 05:00:00,Santiago,Profesional - Licenciatura,302973
+98521,1980-12-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,312366
+98522,1993-04-27 05:00:00,Santiago,Profesional - Licenciatura,140404
+98525,1982-01-22 05:00:00,Santiago,Profesional - Licenciatura,87873
+98526,1991-07-16 05:00:00,Santiago,Profesional - Licenciatura,267000
+98527,1966-10-20 05:00:00,Santiago,Profesional - Licenciatura,74053
+98528,1979-09-16 05:00:00,Santiago,Profesional - Licenciatura,181135
+98529,1992-03-09 05:00:00,Santiago,Profesional - Licenciatura,347424
+98530,1981-09-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,228376
+98531,1984-01-13 05:00:00,Santiago,Especializacion - Postgrado,197910
+98533,1979-12-24 05:00:00,Santiago,Profesional - Licenciatura,93061
+98534,1974-09-07 05:00:00,Santiago,Tecnico Universitario,132713
+98535,1991-08-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,87527
+98536,1988-04-29 05:00:00,Santiago,Profesional - Licenciatura,303202
+98537,1974-10-26 05:00:00,Santiago,Especializacion - Postgrado,112539
+98539,1980-05-28 05:00:00,Santiago,Profesional - Licenciatura,301221
+98540,1994-02-11 05:00:00,Santiago,Profesional - Licenciatura,168630
+98541,1983-06-05 05:00:00,Santiago,Profesional - Licenciatura,155053
+98542,1979-12-14 05:00:00,Santiago,Tecnico Universitario,90131
+98543,1971-11-07 05:00:00,Santiago,Maestria,82842
+98544,1980-04-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,341127
+98545,1979-11-23 05:00:00,Santiago,Tecnico Universitario,179260
+98548,1987-11-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,90159
+98549,1986-08-18 05:00:00,Santiago,Profesional - Licenciatura,143894
+98550,1987-09-11 05:00:00,Santiago,Tecnico Universitario,264837
+98551,1967-04-23 05:00:00,Santiago,Especializacion - Postgrado,313288
+98552,1987-07-28 05:00:00,Santiago,Especializacion - Postgrado,221993
+98553,1978-12-13 05:00:00,Santiago,Bachillerato - Secundaria,261296
+98556,1979-02-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,344689
+98557,1978-07-26 05:00:00,Santiago,Profesional - Licenciatura,72336
+98558,1993-06-26 05:00:00,Santiago,Profesional - Licenciatura,305515
+98559,1984-12-30 05:00:00,Santiago,Profesional - Licenciatura,234656
+98560,1971-09-28 05:00:00,Santiago,Profesional - Licenciatura,317547
+98561,1982-05-12 05:00:00,Santiago,Profesional - Licenciatura,314947
+98562,1994-06-21 05:00:00,Santiago,Profesional - Licenciatura,234822
+98563,1993-04-12 05:00:00,Santiago,Profesional - Licenciatura,163157
+98565,1988-05-11 05:00:00,Santiago,Profesional - Licenciatura,118938
+98566,1992-04-04 05:00:00,Santiago,Tecnico Universitario,130958
+98567,1978-07-10 05:00:00,Santiago,Profesional - Licenciatura,288195
+98568,1993-06-24 05:00:00,Santiago,Profesional - Licenciatura,294752
+98569,1993-03-25 05:00:00,Santiago,Profesional - Licenciatura,342641
+98570,1985-12-28 05:00:00,Santiago,Profesional - Licenciatura,255722
+98571,1993-10-17 05:00:00,Santiago,Profesional - Licenciatura,91269
+98572,1983-03-01 05:00:00,Santiago,Profesional - Licenciatura,167110
+98575,1988-07-24 05:00:00,Santiago,Profesional - Licenciatura,115785
+98576,1985-01-08 05:00:00,Santiago,Maestria,195371
+98581,1988-10-15 05:00:00,Santiago,Profesional - Licenciatura,297574
+98583,1980-05-14 05:00:00,Santiago,Especializacion - Postgrado,320997
+98584,1980-05-12 05:00:00,Santiago,Tecnico Universitario,213771
+98585,1973-05-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,105873
+98586,1992-05-27 05:00:00,Santiago,Especializacion - Postgrado,271238
+98587,1993-11-04 05:00:00,Santiago,Profesional - Licenciatura,91857
+98588,1972-09-29 05:00:00,Santiago,Tecnico Universitario,254523
+98589,1986-10-29 05:00:00,Santiago,Especializacion - Postgrado,346742
+98591,1988-09-11 05:00:00,Santiago,Maestria,85813
+98592,1992-11-16 05:00:00,Santiago,Profesional - Licenciatura,320576
+98594,1986-08-18 05:00:00,Santiago,Profesional - Licenciatura,170393
+98595,1979-09-19 05:00:00,Santiago,Especializacion - Postgrado,298062
+98596,1990-11-04 05:00:00,Santiago,Profesional - Licenciatura,165582
+98597,1987-11-20 05:00:00,Santiago,Profesional - Licenciatura,313044
+98598,1973-07-05 05:00:00,Santiago,Profesional - Licenciatura,252072
+98599,1986-12-02 05:00:00,Santiago,Especializacion - Postgrado,284245
+98601,1987-02-24 05:00:00,Santiago,Maestria,244522
+98602,1989-12-15 05:00:00,Santiago,Profesional - Licenciatura,316861
+98603,1993-07-25 05:00:00,Santiago,Tecnico Universitario,332629
+98604,1989-11-02 05:00:00,Santiago,Profesional - Licenciatura,208119
+98605,1993-11-14 05:00:00,Santiago,Profesional - Licenciatura,254824
+98607,1987-10-15 05:00:00,Santiago,Profesional - Licenciatura,68832
+98609,1976-10-05 05:00:00,Santiago,Profesional - Licenciatura,71984
+98610,1989-12-18 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,174803
+98611,1973-09-19 05:00:00,Santiago,Profesional - Licenciatura,195795
+98612,1959-12-22 05:00:00,Santiago,Profesional - Licenciatura,207158
+98613,1980-07-06 05:00:00,Santiago,Profesional - Licenciatura,113019
+98614,1985-10-24 05:00:00,Santiago,Profesional - Licenciatura,337935
+98615,2020-09-29 05:00:00,Santiago,Profesional - Licenciatura,70379
+98616,1978-04-22 05:00:00,Santiago,Primaria,78091
+98618,1988-07-30 05:00:00,Santiago,Profesional - Licenciatura,295901
+98619,1988-09-05 05:00:00,Santiago,Profesional - Licenciatura,332427
+98622,1977-03-19 05:00:00,Santiago,Profesional - Licenciatura,315340
+98625,1978-02-23 05:00:00,Santiago,Profesional - Licenciatura,126081
+98628,1964-09-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,278985
+98629,1982-10-16 05:00:00,Santiago,Profesional - Licenciatura,253750
+98630,1991-05-03 05:00:00,Santiago,Profesional - Licenciatura,179056
+98632,1981-02-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,287976
+98633,1966-06-02 05:00:00,Santiago,Especializacion - Postgrado,262944
+98636,1988-10-15 05:00:00,Santiago,Tecnico Universitario,251179
+98638,1976-10-22 05:00:00,Santiago,Profesional - Licenciatura,114638
+98639,1985-05-10 05:00:00,Santiago,Profesional - Licenciatura,131402
+98640,1990-10-20 05:00:00,Santiago,Profesional - Licenciatura,98915
+98641,1977-03-31 05:00:00,Santiago,Profesional - Licenciatura,118052
+98642,1973-12-13 05:00:00,Santiago,Especializacion - Postgrado,189267
+98644,1986-03-20 05:00:00,Santiago,Profesional - Licenciatura,327880
+98645,1988-10-25 05:00:00,Santiago,Profesional - Licenciatura,255691
+98647,1987-01-28 05:00:00,Santiago,Profesional - Licenciatura,242004
+98651,1987-10-21 05:00:00,Santiago,Profesional - Licenciatura,78378
+98652,1976-04-24 05:00:00,Santiago,Tecnico Universitario,293442
+98654,1976-08-27 05:00:00,Santiago,Profesional - Licenciatura,156035
+98659,1985-07-10 05:00:00,Santiago,Profesional - Licenciatura,337353
+98660,1969-11-04 05:00:00,Santiago,Profesional - Licenciatura,278782
+98661,1967-01-13 05:00:00,Santiago,Tecnico Universitario,222788
+98662,1991-03-17 05:00:00,Santiago,Profesional - Licenciatura,75964
+98663,1987-09-08 05:00:00,Santiago,Profesional - Licenciatura,204014
+98664,1994-11-14 05:00:00,Santiago,Profesional - Licenciatura,286816
+98665,1988-08-21 05:00:00,Santiago,Profesional - Licenciatura,235168
+98666,1976-02-12 05:00:00,Santiago,Primaria,296308
+98668,1991-08-21 05:00:00,Santiago,Profesional - Licenciatura,261521
+98669,2020-10-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,346525
+98670,1979-11-02 05:00:00,Santiago,Profesional - Licenciatura,318440
+98671,1981-03-06 05:00:00,Santiago,Profesional - Licenciatura,301573
+98672,1988-12-16 05:00:00,Santiago,Maestria,209520
+98676,1973-03-23 05:00:00,Santiago,Tecnico Universitario,265347
+98679,1987-04-04 05:00:00,Santiago,Profesional - Licenciatura,325735
+98680,1987-08-25 05:00:00,Santiago,Profesional - Licenciatura,100299
+98681,1976-06-22 05:00:00,Santiago,Tecnico Universitario,179056
+98682,1989-11-11 05:00:00,Santiago,Profesional - Licenciatura,77554
+98683,1978-09-04 05:00:00,Santiago,Tecnico Universitario,339871
+98684,1971-07-18 05:00:00,Santiago,Profesional - Licenciatura,312892
+98685,1985-09-16 05:00:00,Santiago,Especializacion - Postgrado,166118
+98686,1988-06-23 05:00:00,Santiago,Profesional - Licenciatura,332769
+98687,1981-02-03 05:00:00,Santiago,Tecnico Universitario,81631
+98689,1992-01-24 05:00:00,Santiago,Especializacion - Postgrado,101159
+98690,1978-06-29 05:00:00,Santiago,Especializacion - Postgrado,167895
+98692,1986-11-02 05:00:00,Santiago,Profesional - Licenciatura,172955
+98693,1996-02-16 05:00:00,Santiago,Bachillerato - Secundaria,149791
+98694,1978-04-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,302796
+98695,1991-11-19 05:00:00,Santiago,Maestria,115870
+98696,1989-09-12 05:00:00,Santiago,Profesional - Licenciatura,160486
+98697,1992-07-08 05:00:00,Santiago,Profesional - Licenciatura,299497
+98698,1984-07-12 05:00:00,Santiago,Tecnico Universitario,344459
+98699,1984-04-13 05:00:00,Santiago,Profesional - Licenciatura,208694
+98700,1977-02-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,122688
+98701,1982-07-14 05:00:00,Santiago,Profesional - Licenciatura,112184
+98702,1970-10-18 05:00:00,Santiago,Profesional - Licenciatura,308164
+98704,1983-02-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,304487
+98707,1992-01-31 05:00:00,Santiago,Profesional - Licenciatura,140641
+98709,1989-01-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,270013
+98710,1968-07-09 05:00:00,Santiago,Tecnico Universitario,156692
+98711,1884-03-10 05:00:00,Santiago,Profesional - Licenciatura,112854
+98712,1975-11-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,80542
+98713,1980-12-01 05:00:00,Santiago,Especializacion - Postgrado,106106
+98714,1980-08-09 05:00:00,Santiago,Tecnico Universitario,240633
+98715,1971-06-15 05:00:00,Santiago,Profesional - Licenciatura,151989
+98716,1994-11-08 05:00:00,Santiago,Profesional - Licenciatura,188520
+98717,1982-03-16 05:00:00,Santiago,Profesional - Licenciatura,140126
+98718,1991-07-22 05:00:00,Santiago,Profesional - Licenciatura,175936
+98721,1991-02-02 05:00:00,Santiago,Profesional - Licenciatura,129192
+98722,1974-02-06 05:00:00,Santiago,Profesional - Licenciatura,306866
+98724,1988-09-01 05:00:00,Santiago,Profesional - Licenciatura,187731
+98725,1988-04-27 05:00:00,Santiago,Profesional - Licenciatura,144307
+98727,1995-04-06 05:00:00,Santiago,Profesional - Licenciatura,275029
+98728,1994-01-07 05:00:00,Santiago,Bachillerato - Secundaria,276286
+98730,1988-07-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,264307
+98731,1991-11-10 05:00:00,Santiago,Profesional - Licenciatura,179566
+98732,1978-10-13 05:00:00,Santiago,Especializacion - Postgrado,320414
+98733,1986-05-08 05:00:00,Santiago,Especializacion - Postgrado,324724
+98734,1986-08-09 05:00:00,Santiago,Profesional - Licenciatura,96900
+98735,1978-08-16 05:00:00,Santiago,Profesional - Licenciatura,135733
+98737,1982-10-28 05:00:00,Santiago,Profesional - Licenciatura,129639
+98739,1979-05-18 05:00:00,Santiago,Tecnico Universitario,216356
+98740,1983-10-08 05:00:00,Santiago,Profesional - Licenciatura,201222
+98742,1972-11-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,120633
+98743,1990-12-03 05:00:00,Santiago,Tecnico Universitario,107578
+98744,1981-11-15 05:00:00,Santiago,Especializacion - Postgrado,186152
+98745,1970-06-21 05:00:00,Santiago,Tecnico Universitario,304147
+98746,1990-09-14 05:00:00,Santiago,Profesional - Licenciatura,124898
+98748,1990-02-03 05:00:00,Santiago,Profesional - Licenciatura,271154
+98749,1978-11-23 05:00:00,Santiago,Maestria,196777
+98750,1978-07-29 05:00:00,Santiago,Profesional - Licenciatura,319988
+98751,1989-12-27 05:00:00,Santiago,Profesional - Licenciatura,274938
+98752,1985-12-27 05:00:00,Santiago,Profesional - Licenciatura,184601
+98753,1979-12-14 05:00:00,Santiago,Profesional - Licenciatura,123213
+98756,1972-02-08 05:00:00,Santiago,Especializacion - Postgrado,124440
+98757,1991-02-14 05:00:00,Santiago,Profesional - Licenciatura,325936
+98759,1979-07-13 05:00:00,Santiago,Profesional - Licenciatura,287509
+98760,1986-05-09 05:00:00,Santiago,Profesional - Licenciatura,203608
+98761,1978-04-21 05:00:00,Santiago,Profesional - Licenciatura,107202
+98762,1980-11-16 05:00:00,Santiago,Tecnico Universitario,223844
+98764,1989-09-15 05:00:00,Santiago,Profesional - Licenciatura,287014
+98765,1987-09-23 05:00:00,Santiago,Profesional - Licenciatura,326507
+98767,1981-02-03 05:00:00,Santiago,Tecnico Universitario,143213
+98769,1966-12-27 05:00:00,Santiago,Tecnico Universitario,126893
+98770,1989-01-18 05:00:00,Santiago,Profesional - Licenciatura,271227
+98771,1972-03-27 05:00:00,Santiago,Bachillerato - Secundaria,166719
+98772,1969-03-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,182861
+98774,1969-09-30 05:00:00,Santiago,Tecnico Universitario,309667
+98775,1988-01-24 05:00:00,Santiago,Profesional - Licenciatura,334803
+98776,1973-05-27 05:00:00,Santiago,Maestria,192577
+98777,1988-08-27 05:00:00,Santiago,Profesional - Licenciatura,222185
+98778,1967-12-14 05:00:00,Santiago,Profesional - Licenciatura,130787
+98779,1993-11-30 05:00:00,Santiago,Profesional - Licenciatura,205516
+98780,1978-04-30 05:00:00,Santiago,Profesional - Licenciatura,338054
+98781,1991-12-19 05:00:00,Santiago,Profesional - Licenciatura,142913
+98782,1990-06-02 05:00:00,Santiago,Profesional - Licenciatura,131237
+98784,1973-11-19 05:00:00,Santiago,Especializacion - Postgrado,100085
+98787,1992-10-25 05:00:00,Santiago,Profesional - Licenciatura,295351
+98790,2020-04-06 05:00:00,Santiago,Profesional - Licenciatura,119104
+98791,1993-11-11 05:00:00,Santiago,Profesional - Licenciatura,124512
+98793,1968-11-12 05:00:00,Santiago,Profesional - Licenciatura,219788
+98796,1960-10-31 05:00:00,Santiago,Profesional - Licenciatura,70939
+98797,1986-10-06 05:00:00,Santiago,Especializacion - Postgrado,264173
+98799,1985-08-30 05:00:00,Santiago,Profesional - Licenciatura,177043
+98800,1984-08-27 05:00:00,Santiago,Maestria,169576
+98802,1990-03-06 05:00:00,Santiago,Primaria,200530
+98803,1974-01-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,320364
+98804,1987-08-31 05:00:00,Santiago,Especializacion - Postgrado,286608
+98806,1991-06-17 05:00:00,Santiago,Profesional - Licenciatura,259662
+98807,1978-04-22 05:00:00,Santiago,Bachillerato - Secundaria,172920
+98809,1983-01-24 05:00:00,Santiago,Profesional - Licenciatura,261606
+98810,1994-04-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,206364
+98811,1979-03-27 05:00:00,Santiago,Profesional - Licenciatura,336008
+98812,1973-11-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,103494
+98814,1986-10-13 05:00:00,Santiago,Especializacion - Postgrado,183902
+98815,1980-03-04 05:00:00,Santiago,Profesional - Licenciatura,302046
+98817,1982-09-04 05:00:00,Santiago,Especializacion - Postgrado,200079
+98819,1981-02-11 05:00:00,Santiago,Profesional - Licenciatura,268650
+98821,1972-07-21 05:00:00,Santiago,Profesional - Licenciatura,306679
+98822,1987-05-31 05:00:00,Santiago,Profesional - Licenciatura,299949
+98824,2020-06-13 05:00:00,Santiago,Profesional - Licenciatura,268542
+98825,1971-12-12 05:00:00,Santiago,Tecnico Universitario,297904
+98826,1991-01-05 05:00:00,Santiago,Profesional - Licenciatura,185350
+98827,1982-11-10 05:00:00,Santiago,Profesional - Licenciatura,295940
+98829,1992-02-24 05:00:00,Santiago,Profesional - Licenciatura,158030
+98830,1976-09-18 05:00:00,Santiago,Maestria,348490
+98831,1982-08-06 05:00:00,Santiago,Profesional - Licenciatura,303228
+98832,1967-09-28 05:00:00,Santiago,Profesional - Licenciatura,146934
+98834,1989-08-31 05:00:00,Santiago,Especializacion - Postgrado,220113
+98835,1981-12-07 05:00:00,Santiago,Tecnico Universitario,123064
+98836,1978-09-17 05:00:00,Santiago,Profesional - Licenciatura,189503
+98837,1986-12-22 05:00:00,Santiago,Especializacion - Postgrado,276501
+98838,2020-09-28 05:00:00,Santiago,Profesional - Licenciatura,143262
+98839,1978-06-08 05:00:00,Santiago,Profesional - Licenciatura,331745
+98840,1988-01-25 05:00:00,Santiago,Tecnico Universitario,89190
+98842,1978-05-01 05:00:00,Santiago,Tecnico Universitario,173185
+98844,1980-09-12 05:00:00,Santiago,Profesional - Licenciatura,219623
+98845,1981-03-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,178587
+98846,1987-07-13 05:00:00,Santiago,Tecnico Universitario,285986
+98847,1962-03-03 05:00:00,Santiago,Tecnico Universitario,316182
+98848,1974-02-06 05:00:00,Santiago,Especializacion - Postgrado,287533
+98850,1983-01-18 05:00:00,Santiago,Profesional - Licenciatura,92593
+98852,1983-04-19 05:00:00,Santiago,Profesional - Licenciatura,172625
+98853,1978-03-03 05:00:00,Santiago,Maestria,279594
+98854,1991-04-09 05:00:00,Santiago,Profesional - Licenciatura,215937
+98856,1984-11-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,334652
+98857,1988-08-03 05:00:00,Santiago,Tecnico Universitario,263840
+98859,1989-10-30 05:00:00,Santiago,Profesional - Licenciatura,141652
+98860,1973-03-23 05:00:00,Santiago,Profesional - Licenciatura,105492
+98861,1983-12-21 05:00:00,Santiago,Especializacion - Postgrado,68023
+98862,1987-08-20 05:00:00,Santiago,Profesional - Licenciatura,344383
+98864,1992-10-07 05:00:00,Santiago,Profesional - Licenciatura,346056
+98865,1994-02-11 05:00:00,Santiago,Profesional - Licenciatura,90094
+98866,1974-02-09 05:00:00,Santiago,Tecnico Universitario,282587
+98867,1982-02-24 05:00:00,Santiago,Profesional - Licenciatura,104906
+98870,1987-06-28 05:00:00,Santiago,Profesional - Licenciatura,82986
+98871,1965-11-05 05:00:00,Santiago,Tecnico Universitario,308524
+98872,1991-01-27 05:00:00,Santiago,Profesional - Licenciatura,260598
+98873,1977-07-09 05:00:00,Santiago,Profesional - Licenciatura,185927
+98874,1972-05-15 05:00:00,Santiago,Maestria,98069
+98876,1987-05-05 05:00:00,Santiago,Profesional - Licenciatura,237481
+98879,1987-07-30 05:00:00,Santiago,Profesional - Licenciatura,271052
+98881,1980-04-14 05:00:00,Santiago,Profesional - Licenciatura,168945
+98882,1980-08-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,268959
+98885,1978-04-02 05:00:00,Santiago,Profesional - Licenciatura,219679
+98886,1975-05-20 05:00:00,Santiago,Profesional - Licenciatura,106952
+98888,1981-12-09 05:00:00,Santiago,Profesional - Licenciatura,146993
+98889,1988-10-03 05:00:00,Santiago,Tecnico Universitario,319154
+98890,1985-08-12 05:00:00,Santiago,Profesional - Licenciatura,86717
+98891,1079-12-27 05:00:00,Santiago,Doctorado,98810
+98892,1987-03-23 05:00:00,Santiago,Profesional - Licenciatura,276746
+98893,1981-01-14 05:00:00,Santiago,Bachillerato - Secundaria,339177
+98894,1980-05-16 05:00:00,Santiago,Maestria,201673
+98895,1978-06-22 05:00:00,Santiago,Profesional - Licenciatura,178637
+98896,1972-12-09 05:00:00,Santiago,Profesional - Licenciatura,93179
+98897,1983-07-26 05:00:00,Santiago,Profesional - Licenciatura,225431
+98898,1995-06-05 05:00:00,Santiago,Profesional - Licenciatura,226156
+98900,1992-12-13 05:00:00,Santiago,Profesional - Licenciatura,307467
+98902,1996-04-01 05:00:00,Santiago,Profesional - Licenciatura,144677
+98903,1981-03-15 05:00:00,Santiago,Profesional - Licenciatura,338501
+98904,1971-06-28 05:00:00,Santiago,Bachillerato - Secundaria,313760
+98905,1982-07-09 05:00:00,Santiago,Tecnico Universitario,240999
+98906,1980-08-01 05:00:00,Santiago,Profesional - Licenciatura,285407
+98907,1980-03-07 05:00:00,Santiago,Maestria,72886
+98908,1968-02-22 05:00:00,Santiago,Profesional - Licenciatura,125461
+98909,1979-07-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,208133
+98910,1974-04-12 05:00:00,Santiago,Tecnico Universitario,138079
+98912,1984-04-01 05:00:00,Santiago,Profesional - Licenciatura,243442
+98913,1980-05-23 05:00:00,Santiago,Maestria,257666
+98914,1995-05-24 05:00:00,Santiago,Profesional - Licenciatura,257655
+98915,1965-01-16 05:00:00,Santiago,Profesional - Licenciatura,283065
+98916,1965-12-13 05:00:00,Santiago,Tecnico Universitario,130580
+98919,1968-01-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,163816
+98923,1980-07-01 05:00:00,Santiago,Maestria,168316
+98926,1984-12-12 05:00:00,Santiago,Tecnico Universitario,326465
+98927,1978-09-16 05:00:00,Santiago,Profesional - Licenciatura,262181
+98928,1992-10-14 05:00:00,Santiago,Profesional - Licenciatura,231046
+98929,1956-10-30 05:00:00,Santiago,Profesional - Licenciatura,162720
+98930,1979-06-05 05:00:00,Santiago,Profesional - Licenciatura,232546
+98932,1978-04-06 05:00:00,Santiago,Tecnico Universitario,332553
+98933,1989-04-19 05:00:00,Santiago,Profesional - Licenciatura,117654
+98936,1973-04-03 05:00:00,Santiago,Profesional - Licenciatura,149454
+98938,1967-12-20 05:00:00,Santiago,Profesional - Licenciatura,278445
+98939,1982-08-19 05:00:00,Santiago,Profesional - Licenciatura,249184
+98940,1977-06-13 05:00:00,Santiago,Profesional - Licenciatura,186867
+98941,1986-01-24 05:00:00,Santiago,Profesional - Licenciatura,205359
+98943,1994-12-15 05:00:00,Santiago,Profesional - Licenciatura,294256
+102972,1986-05-02 05:00:00,Santiago,Profesional - Licenciatura,161091
+102973,1993-07-06 05:00:00,Santiago,Profesional - Licenciatura,79995
+102975,1974-02-17 05:00:00,Santiago,Especializacion - Postgrado,273162
+102976,1977-03-25 05:00:00,Santiago,Profesional - Licenciatura,179988
+102977,1974-12-06 05:00:00,Santiago,Profesional - Licenciatura,92887
+102978,1992-04-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,210501
+102983,1982-03-17 05:00:00,Santiago,Profesional - Licenciatura,258037
+102985,1988-11-17 05:00:00,Santiago,Especializacion - Postgrado,183048
+102987,1979-07-24 05:00:00,Santiago,Maestria,172054
+102988,1988-06-14 05:00:00,Santiago,Profesional - Licenciatura,281686
+102989,1984-06-08 05:00:00,Santiago,Profesional - Licenciatura,212211
+102991,1981-12-23 05:00:00,Santiago,Bachillerato - Secundaria,302293
+102992,1993-01-27 05:00:00,Santiago,Tecnico Universitario,320940
+102993,1978-09-25 05:00:00,Santiago,Maestria,224476
+102994,1990-03-21 05:00:00,Santiago,Profesional - Licenciatura,310320
+102995,1974-02-21 05:00:00,Santiago,Profesional - Licenciatura,227182
+102996,1973-03-06 05:00:00,Santiago,Profesional - Licenciatura,319499
+102997,1968-09-20 05:00:00,Santiago,Tecnico Universitario,103673
+102998,1959-07-14 05:00:00,Santiago,Tecnico Universitario,256953
+102999,1995-06-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,340854
+103000,1993-10-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,217075
+103001,1977-03-03 05:00:00,Santiago,Profesional - Licenciatura,268117
+103002,1979-04-22 05:00:00,Santiago,Tecnico Universitario,124478
+103003,1965-10-26 05:00:00,Santiago,Bachillerato - Secundaria,307864
+103004,1976-04-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,124086
+103006,1981-07-24 05:00:00,Santiago,Profesional - Licenciatura,339953
+103007,1991-06-27 05:00:00,Santiago,Profesional - Licenciatura,269803
+103008,1977-04-07 05:00:00,Santiago,Profesional - Licenciatura,265487
+103010,1975-10-23 05:00:00,Santiago,Profesional - Licenciatura,189233
+103012,1984-03-16 05:00:00,Santiago,Profesional - Licenciatura,68719
+103014,1991-11-28 05:00:00,Santiago,Profesional - Licenciatura,273257
+103015,1976-10-26 05:00:00,Santiago,Profesional - Licenciatura,319289
+103016,1975-11-09 05:00:00,Arica,Tecnico Universitario,115621
+103017,1981-10-05 05:00:00,Santiago,Profesional - Licenciatura,124446
+103019,1964-10-03 05:00:00,Santiago,Tecnico Universitario,110248
+103020,1973-06-29 05:00:00,Santiago,Maestria,343270
+103021,1972-04-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,211104
+103022,1972-06-28 05:00:00,Santiago,Tecnico Universitario,104550
+103024,1985-03-26 05:00:00,Santiago,Tecnico Universitario,317473
+103025,1969-08-27 05:00:00,Santiago,Profesional - Licenciatura,163229
+103027,1990-02-16 05:00:00,Santiago,Maestria,158767
+103028,1988-01-20 05:00:00,Santiago,Especializacion - Postgrado,129926
+103030,1977-10-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,144386
+103031,1971-12-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,297548
+103032,1966-11-13 05:00:00,Santiago,Tecnico Universitario,139176
+103033,1978-04-21 05:00:00,Santiago,Tecnico Universitario,108033
+103035,1973-12-05 05:00:00,Santiago,Profesional - Licenciatura,105841
+103036,1973-06-18 05:00:00,Santiago,Tecnico Universitario,181731
+103037,1980-04-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,222747
+103039,1951-03-03 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,126520
+103042,1980-11-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,300924
+103043,1985-03-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,91705
+103044,1970-08-09 05:00:00,Santiago,Tecnico Universitario,112900
+103045,1967-09-05 05:00:00,Santiago,Tecnico Universitario,183596
+103046,1973-10-22 05:00:00,Santiago,Profesional - Licenciatura,152875
+103048,1988-07-28 05:00:00,Santiago,Bachillerato - Secundaria,229263
+103049,1971-07-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,162909
+103050,1965-09-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,157647
+103052,1979-04-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,315384
+103054,1981-05-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,325202
+103056,1974-12-07 05:00:00,Santiago,Profesional - Licenciatura,281176
+103057,1986-02-10 05:00:00,Santiago,Profesional - Licenciatura,287981
+103058,1985-09-16 05:00:00,Santiago,Tecnico Universitario,243934
+103059,1974-12-25 05:00:00,Santiago,Profesional - Licenciatura,200926
+103060,1988-03-21 05:00:00,Santiago,Tecnico Universitario,82223
+103061,1994-02-07 05:00:00,Santiago,Especializacion - Postgrado,125468
+103064,1995-08-10 05:00:00,Santiago,Tecnico Universitario,302469
+103065,1992-04-13 05:00:00,Santiago,Tecnico Universitario,212778
+103066,1980-05-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,251070
+103067,2019-05-25 05:00:00,Santiago,Primaria,289952
+103069,1980-10-11 05:00:00,Santiago,Tecnico Universitario,321843
+103071,1965-12-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,116434
+103072,1980-12-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,268477
+103073,1988-01-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,306326
+103074,1976-08-18 05:00:00,Santiago,Tecnico Universitario,111818
+103075,1989-12-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,120259
+103076,1989-03-17 05:00:00,Santiago,Profesional - Licenciatura,323201
+103077,1990-01-27 05:00:00,Santiago,Profesional - Licenciatura,187792
+103078,1993-07-06 05:00:00,Santiago,Bachillerato - Secundaria,138077
+103079,1970-09-08 05:00:00,Santiago,Bachillerato - Secundaria,274066
+103080,1969-11-22 05:00:00,Santiago,Profesional - Licenciatura,205377
+103081,1985-04-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,137032
+103082,1964-03-27 05:00:00,Santiago,Profesional - Licenciatura,208733
+103083,1992-12-21 05:00:00,Santiago,Bachillerato - Secundaria,317344
+103085,1976-10-24 05:00:00,Santiago,Profesional - Licenciatura,207707
+103086,1991-01-07 05:00:00,Santiago,Profesional - Licenciatura,230798
+103089,1970-10-24 05:00:00,Santiago,Bachillerato - Secundaria,165509
+103090,1982-07-23 05:00:00,Santiago,Profesional - Licenciatura,164231
+103092,1980-05-05 05:00:00,Santiago,Profesional - Licenciatura,166568
+103093,1970-05-08 05:00:00,Santiago,Profesional - Licenciatura,294922
+103094,1971-01-02 05:00:00,Santiago,Tecnico Universitario,188573
+103097,1974-12-28 05:00:00,Santiago,Profesional - Licenciatura,301311
+103098,1977-10-23 05:00:00,Santiago,Tecnico Universitario,194861
+103100,1982-11-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,104626
+103101,1982-08-14 05:00:00,Santiago,Profesional - Licenciatura,193480
+103102,1975-04-29 05:00:00,Santiago,Tecnico Universitario,167723
+103103,1968-02-25 05:00:00,Santiago,Profesional - Licenciatura,302314
+103104,1964-10-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,245079
+103106,1967-11-21 05:00:00,Santiago,Tecnico Universitario,131727
+103108,1984-12-29 05:00:00,Santiago,Tecnico Universitario,91657
+103109,1979-10-10 05:00:00,Santiago,Profesional - Licenciatura,284971
+103111,1981-02-07 05:00:00,Santiago,Profesional - Licenciatura,83377
+103112,1988-10-26 05:00:00,Santiago,Profesional - Licenciatura,220765
+103113,1974-08-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,187112
+103114,1957-10-11 05:00:00,Santiago,Tecnico Universitario,108682
+103116,1978-01-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,97474
+103117,1980-04-24 05:00:00,Santiago,Bachillerato - Secundaria,99200
+103119,1972-06-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,74582
+103120,1980-04-05 05:00:00,Santiago,Profesional - Licenciatura,266355
+103121,1986-12-18 05:00:00,Santiago,Profesional - Licenciatura,265385
+103122,1992-07-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,293905
+103123,1973-12-26 05:00:00,Santiago,Tecnico Universitario,99214
+103125,1995-10-16 05:00:00,Santiago,Profesional - Licenciatura,233962
+103128,1973-10-23 05:00:00,Santiago,Profesional - Licenciatura,342083
+103129,1962-10-17 05:00:00,Santiago,Tecnico Universitario,288181
+103130,1993-05-26 05:00:00,Santiago,Tecnico Universitario,272931
+103131,1991-03-17 05:00:00,Santiago,Profesional - Licenciatura,237165
+103135,1977-09-09 05:00:00,Santiago,Tecnico Universitario,348150
+103136,1974-08-23 05:00:00,Santiago,Profesional - Licenciatura,336470
+103142,1983-09-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,290512
+103143,1978-10-05 05:00:00,Santiago,Profesional - Licenciatura,93516
+103144,1985-11-27 05:00:00,Santiago,Profesional - Licenciatura,299538
+103145,1988-06-03 05:00:00,Santiago,Tecnico Universitario,324007
+103146,1973-04-05 05:00:00,Santiago,Especializacion - Postgrado,271989
+103152,1977-09-17 05:00:00,Santiago,Tecnico Universitario,343299
+103154,1978-05-21 05:00:00,Santiago,Profesional - Licenciatura,259818
+103156,1983-11-23 05:00:00,Santiago,Tecnico Universitario,182084
+103157,1977-08-05 05:00:00,Santiago,Profesional - Licenciatura,82605
+103159,2021-03-14 05:00:00,Santiago,Profesional - Licenciatura,131877
+104134,1974-01-24 05:00:00,Santiago,Tecnico Universitario,146819
+104135,1982-10-24 05:00:00,Santiago,Profesional - Licenciatura,338561
+105692,1985-01-29 05:00:00,Santiago,Profesional - Licenciatura,200968
+105694,1989-01-04 05:00:00,Santiago,Tecnico Universitario,326097
+105695,1976-04-04 05:00:00,Santiago,Profesional - Licenciatura,75018
+105696,1973-09-27 05:00:00,Santiago,Profesional - Licenciatura,262262
+105702,1994-05-11 05:00:00,Santiago,Profesional - Licenciatura,100751
+105703,1992-07-22 05:00:00,Santiago,Profesional - Licenciatura,226597
+105705,1967-11-14 05:00:00,Santiago,Especializacion - Postgrado,206966
+105706,1992-04-25 05:00:00,Santiago,Profesional - Licenciatura,219094
+105708,1990-07-31 05:00:00,Santiago,Profesional - Licenciatura,256263
+105709,1974-05-14 05:00:00,Santiago,Profesional - Licenciatura,202352
+105711,1979-11-18 05:00:00,Santiago,Tecnico Universitario,316894
+148424,1978-06-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,81296
+148426,1966-02-18 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,232139
+148427,1964-12-28 05:00:00,Santiago,Tecnico Universitario,333084
+148430,1970-10-07 05:00:00,Santiago,Tecnico Universitario,228975
+148433,1967-10-03 05:00:00,Santiago,Tecnico Universitario,173995
+148434,1973-02-13 05:00:00,Santiago,Tecnico Universitario,161505
+148439,1968-06-08 05:00:00,Santiago,Profesional - Licenciatura,231167
+148441,1972-07-14 05:00:00,Santiago,Profesional - Licenciatura,260832
+148444,1975-01-11 05:00:00,Santiago,Profesional - Licenciatura,290541
+148445,1980-10-31 05:00:00,Santiago,Profesional - Licenciatura,137235
+148450,1966-02-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,145343
+148451,1971-12-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,253573
+148453,1976-11-13 05:00:00,Santiago,Profesional - Licenciatura,95328
+148454,1971-01-11 05:00:00,Santiago,Profesional - Licenciatura,234381
+148456,1967-02-25 05:00:00,Santiago,Especializacion - Postgrado,94812
+148460,1965-07-20 05:00:00,Santiago,Tecnico Universitario,78633
+148461,1968-12-30 05:00:00,Santiago,Profesional - Licenciatura,238563
+148462,1967-01-21 05:00:00,Santiago,Especializacion - Postgrado,158123
+148463,1971-12-04 05:00:00,Santiago,Profesional - Licenciatura,76969
+148465,1970-04-24 05:00:00,Santiago,Tecnico Universitario,221186
+148466,1969-05-19 05:00:00,Santiago,Tecnico Universitario,133757
+148470,1966-04-20 05:00:00,Santiago,Tecnico Universitario,287023
+148472,1970-05-31 05:00:00,Santiago,Profesional - Licenciatura,117346
+148475,1970-12-23 05:00:00,Santiago,Tecnico Universitario,87142
+148477,1974-01-24 05:00:00,Santiago,Especializacion - Postgrado,117361
+148478,1981-03-14 05:00:00,Santiago,Profesional - Licenciatura,88113
+148479,1970-08-16 05:00:00,Santiago,Profesional - Licenciatura,71977
+148482,1972-12-28 05:00:00,Santiago,Profesional - Licenciatura,99213
+148486,1963-11-15 05:00:00,Santiago,Tecnico Universitario,342336
+148488,1972-11-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,98881
+148489,1976-11-09 05:00:00,Santiago,Profesional - Licenciatura,223371
+148490,1981-07-03 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,164580
+148491,1967-03-02 05:00:00,Santiago,Tecnico Universitario,232842
+148493,1968-06-20 05:00:00,Santiago,Bachillerato - Secundaria,336829
+148497,1973-07-08 05:00:00,Santiago,Profesional - Licenciatura,124119
+148498,1977-09-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,225125
+148499,1967-09-23 05:00:00,Santiago,Tecnico Universitario,105527
+148501,1972-12-27 05:00:00,Santiago,Profesional - Licenciatura,284727
+148503,1968-09-29 05:00:00,Santiago,Profesional - Licenciatura,344414
+148507,1968-10-27 05:00:00,Santiago,Bachillerato - Secundaria,69686
+148511,1975-09-06 05:00:00,Santiago,Profesional - Licenciatura,85170
+148513,1978-06-23 05:00:00,Santiago,Profesional - Licenciatura,313298
+148514,1977-09-05 05:00:00,Santiago,Profesional - Licenciatura,193084
+148516,1973-11-06 05:00:00,Santiago,Maestria,265105
+148519,1967-11-14 05:00:00,Santiago,Profesional - Licenciatura,259936
+148520,1967-09-15 05:00:00,Santiago,Profesional - Licenciatura,83284
+148521,1968-09-06 05:00:00,Santiago,Bachillerato - Secundaria,262607
+148525,1968-02-02 05:00:00,Santiago,Primaria,192837
+148527,1969-08-26 05:00:00,Santiago,Profesional - Licenciatura,290246
+148529,1969-03-27 05:00:00,Santiago,Tecnico Universitario,128464
+148530,1969-04-05 05:00:00,Santiago,Profesional - Licenciatura,174305
+148534,1969-05-29 05:00:00,Santiago,Bachillerato - Secundaria,98333
+148536,1969-11-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,101546
+148543,1970-06-09 05:00:00,Santiago,Profesional - Licenciatura,269380
+148545,1971-09-13 05:00:00,Santiago,Profesional - Licenciatura,338827
+148548,1971-06-20 05:00:00,Santiago,Tecnico Universitario,263887
+148551,1971-10-17 05:00:00,Santiago,Maestria,278414
+148552,1971-04-22 05:00:00,Santiago,Profesional - Licenciatura,238600
+148559,1971-10-26 05:00:00,Santiago,Especializacion - Postgrado,212846
+148561,1970-08-16 05:00:00,Santiago,Bachillerato - Secundaria,331607
+148565,1972-02-20 05:00:00,Santiago,Profesional - Licenciatura,287510
+148571,1975-04-26 05:00:00,Santiago,Profesional - Licenciatura,327284
+148572,1971-01-19 05:00:00,Santiago,Profesional - Licenciatura,87857
+148576,1974-01-02 05:00:00,Santiago,Tecnico Universitario,333129
+148581,1981-10-18 05:00:00,Santiago,Profesional - Licenciatura,286620
+148583,1981-10-27 05:00:00,Santiago,Profesional - Licenciatura,209504
+148584,1976-01-31 05:00:00,Santiago,Especializacion - Postgrado,232920
+148586,1969-03-26 05:00:00,Santiago,Primaria,348039
+148590,1975-03-02 05:00:00,Santiago,Tecnico Universitario,141896
+148591,1974-07-14 05:00:00,Santiago,Profesional - Licenciatura,127103
+148595,1972-03-12 05:00:00,Santiago,Tecnico Universitario,162817
+148600,1972-02-13 05:00:00,Santiago,Profesional - Licenciatura,348978
+148601,1972-09-23 05:00:00,Santiago,Profesional - Licenciatura,258263
+148605,1972-05-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,284193
+148606,1972-11-02 05:00:00,Santiago,Tecnico Universitario,178004
+148608,1972-01-25 05:00:00,Santiago,Tecnico Universitario,157997
+148610,1973-09-11 05:00:00,Santiago,Tecnico Universitario,196072
+148613,1973-02-25 05:00:00,Santiago,Profesional - Licenciatura,278931
+148615,1973-01-31 05:00:00,Santiago,Profesional - Licenciatura,322430
+148616,1973-06-28 05:00:00,Santiago,Profesional - Licenciatura,317438
+148617,1972-12-31 05:00:00,Santiago,Tecnico Universitario,309406
+148618,1973-09-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,71481
+148619,1973-09-26 05:00:00,Santiago,Profesional - Licenciatura,285437
+148620,1073-07-29 05:00:00,Santiago,Especializacion - Postgrado,240708
+148623,1973-08-28 05:00:00,Santiago,Maestria,205390
+148625,1973-07-13 05:00:00,Santiago,Especializacion - Postgrado,272625
+148626,1972-12-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,298821
+148628,1973-08-16 05:00:00,Santiago,Profesional - Licenciatura,225527
+148631,1973-07-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,252227
+148633,1973-09-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,160265
+148636,1973-11-27 05:00:00,Santiago,Tecnico Universitario,259012
+148637,1973-04-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,336174
+148640,1973-05-29 05:00:00,Santiago,Tecnico Universitario,322779
+148643,1972-12-06 05:00:00,Santiago,Profesional - Licenciatura,232981
+148644,1973-06-26 05:00:00,Santiago,Especializacion - Postgrado,157100
+148645,1973-11-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,266719
+148650,1974-07-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,89049
+148651,1974-10-25 05:00:00,Santiago,Profesional - Licenciatura,145194
+148652,1974-11-20 05:00:00,Santiago,Especializacion - Postgrado,342716
+148654,1976-11-24 05:00:00,Santiago,Profesional - Licenciatura,153403
+148657,1974-05-08 05:00:00,Santiago,Profesional - Licenciatura,340600
+148660,1973-03-12 05:00:00,Santiago,Profesional - Licenciatura,221370
+148662,1974-03-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,339649
+148663,1974-01-26 05:00:00,Santiago,Maestria,217548
+148666,1974-03-29 05:00:00,Santiago,Profesional - Licenciatura,234171
+148667,1975-07-08 05:00:00,Santiago,Profesional - Licenciatura,164401
+148668,1974-01-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,276685
+148672,1973-12-08 05:00:00,Santiago,Bachillerato - Secundaria,316575
+148674,1974-05-12 05:00:00,Santiago,Profesional - Licenciatura,263028
+148676,1975-04-10 05:00:00,Santiago,Profesional - Licenciatura,198675
+148677,1975-08-03 05:00:00,Santiago,Profesional - Licenciatura,191283
+148679,1975-11-09 05:00:00,Santiago,Bachillerato - Secundaria,129979
+148681,1972-10-30 05:00:00,Santiago,Especializacion - Postgrado,258223
+148682,1975-01-07 05:00:00,Santiago,Profesional - Licenciatura,199086
+148683,1975-11-18 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,128118
+148685,1975-01-09 05:00:00,Santiago,Profesional - Licenciatura,198630
+148687,1975-08-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,161640
+148693,1975-08-31 05:00:00,Santiago,Profesional - Licenciatura,172306
+148695,1975-06-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,262153
+148696,1975-11-12 05:00:00,Santiago,Profesional - Licenciatura,138037
+148699,1975-03-28 05:00:00,Santiago,Profesional - Licenciatura,145371
+148703,1976-12-18 05:00:00,Santiago,Profesional - Licenciatura,244606
+148704,1976-04-17 05:00:00,Santiago,Tecnico Universitario,105289
+148707,1976-11-20 05:00:00,Santiago,Especializacion - Postgrado,128988
+148713,1976-02-07 05:00:00,Santiago,Profesional - Licenciatura,112141
+148716,1976-05-20 05:00:00,Santiago,Tecnico Universitario,205101
+148717,1976-08-14 05:00:00,Santiago,Profesional - Licenciatura,266872
+148721,1976-08-13 05:00:00,Santiago,Especializacion - Postgrado,101738
+148723,1976-02-21 05:00:00,Santiago,Profesional - Licenciatura,296308
+148725,1976-03-19 05:00:00,Santiago,Especializacion - Postgrado,345069
+148726,1976-08-17 05:00:00,Santiago,Profesional - Licenciatura,324756
+148877,1976-12-07 05:00:00,Santiago,Profesional - Licenciatura,198753
+148879,1976-01-23 05:00:00,Santiago,Bachillerato - Secundaria,195842
+148880,1976-02-03 05:00:00,Santiago,Especializacion - Postgrado,206474
+148884,1977-04-16 05:00:00,Santiago,Profesional - Licenciatura,274487
+148886,1977-03-16 05:00:00,Santiago,Profesional - Licenciatura,279197
+148889,1977-09-25 05:00:00,Santiago,Maestria,338440
+148895,1977-07-18 05:00:00,Santiago,Profesional - Licenciatura,108198
+148898,1977-05-30 05:00:00,Santiago,Profesional - Licenciatura,183086
+148900,1977-12-21 05:00:00,Santiago,Profesional - Licenciatura,326576
+148903,1977-06-01 05:00:00,Santiago,Profesional - Licenciatura,301438
+148905,1977-12-10 05:00:00,Santiago,Profesional - Licenciatura,188366
+148907,1977-03-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,263288
+148908,1977-08-09 05:00:00,Santiago,Tecnico Universitario,146339
+148909,1977-04-02 05:00:00,Santiago,Especializacion - Postgrado,302882
+148910,1977-06-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,132556
+148911,1977-06-15 05:00:00,Santiago,Profesional - Licenciatura,342510
+148914,1977-12-19 05:00:00,Santiago,Especializacion - Postgrado,151606
+148915,1976-07-27 05:00:00,Santiago,Profesional - Licenciatura,147694
+148916,1977-10-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,98828
+148919,1977-10-11 05:00:00,Santiago,Tecnico Universitario,122269
+148920,1977-11-11 05:00:00,Santiago,Tecnico Universitario,114363
+148921,1977-07-04 05:00:00,Santiago,Profesional - Licenciatura,188636
+148922,1977-02-20 05:00:00,Santiago,Profesional - Licenciatura,315622
+148924,1977-03-22 05:00:00,Santiago,Tecnico Universitario,290526
+148925,1977-06-12 05:00:00,Santiago,Profesional - Licenciatura,115928
+148928,1977-03-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,285497
+148929,1978-01-21 05:00:00,Santiago,Profesional - Licenciatura,278940
+148933,1978-05-10 05:00:00,Santiago,Profesional - Licenciatura,302574
+148938,1978-06-04 05:00:00,Santiago,Especializacion - Postgrado,337628
+148939,1978-06-14 05:00:00,Santiago,Bachillerato - Secundaria,124320
+148942,1978-02-27 05:00:00,Santiago,Especializacion - Postgrado,80809
+148946,1978-10-21 05:00:00,Santiago,Profesional - Licenciatura,232587
+148948,1975-10-07 05:00:00,Santiago,Tecnico Universitario,301403
+148949,1978-05-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,168395
+148952,1977-11-07 05:00:00,Santiago,Bachillerato - Secundaria,124851
+148953,1978-01-23 05:00:00,Santiago,Tecnico Universitario,131555
+148957,1973-06-21 05:00:00,Santiago,Profesional - Licenciatura,122019
+148958,1978-02-12 05:00:00,Santiago,Profesional - Licenciatura,272414
+148959,1978-04-19 05:00:00,Santiago,Profesional - Licenciatura,337982
+148962,1978-10-18 05:00:00,Santiago,Profesional - Licenciatura,315918
+148963,1978-03-01 05:00:00,Santiago,Profesional - Licenciatura,82393
+148964,1978-06-13 05:00:00,Santiago,Profesional - Licenciatura,204468
+148968,1978-08-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,242989
+148970,1978-11-06 05:00:00,Santiago,Maestria,198747
+148972,1978-12-06 05:00:00,Santiago,Profesional - Licenciatura,279982
+148976,1979-03-29 05:00:00,Santiago,Profesional - Licenciatura,129090
+148977,1979-08-11 05:00:00,Santiago,Especializacion - Postgrado,133546
+148979,1979-11-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,216178
+148980,1979-04-10 05:00:00,Santiago,Tecnico Universitario,202147
+148981,1979-05-17 05:00:00,Santiago,Profesional - Licenciatura,153350
+148982,1979-08-15 05:00:00,Santiago,Profesional - Licenciatura,306397
+148985,1979-05-28 05:00:00,Santiago,Profesional - Licenciatura,307867
+148986,1979-09-18 05:00:00,Santiago,Tecnico Universitario,149723
+148987,1979-03-30 05:00:00,Santiago,Especializacion - Postgrado,279287
+148992,1975-10-15 05:00:00,Santiago,Tecnico Universitario,224587
+148995,1979-08-23 05:00:00,Santiago,Profesional - Licenciatura,183188
+148996,1979-03-03 05:00:00,Santiago,Maestria,279333
+148998,1979-06-19 05:00:00,Santiago,Bachillerato - Secundaria,200926
+149002,1979-09-17 05:00:00,Santiago,Profesional - Licenciatura,108784
+149003,1979-02-02 05:00:00,Santiago,Primaria,193576
+149006,1979-11-21 05:00:00,Santiago,Profesional - Licenciatura,243547
+149007,1978-08-27 05:00:00,Santiago,Tecnico Universitario,333949
+149015,1978-12-13 05:00:00,Santiago,Profesional - Licenciatura,68704
+149017,1979-08-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,285067
+149018,1979-08-18 05:00:00,Santiago,Profesional - Licenciatura,180301
+149019,1979-02-03 05:00:00,Santiago,Profesional - Licenciatura,72919
+149020,1979-10-01 05:00:00,Santiago,Especializacion - Postgrado,127202
+149021,1979-10-13 05:00:00,Temuco,Tecnico Universitario,141430
+149022,1978-12-04 05:00:00,Santiago,Tecnico Universitario,246223
+149023,1979-10-23 05:00:00,Santiago,Especializacion - Postgrado,123436
+149024,1980-01-23 05:00:00,Santiago,Especializacion - Postgrado,198675
+149025,1980-10-11 05:00:00,Santiago,Especializacion - Postgrado,136313
+149026,1980-03-05 05:00:00,Santiago,Profesional - Licenciatura,165231
+149028,1980-11-06 05:00:00,Santiago,Profesional - Licenciatura,204518
+149031,1980-04-24 05:00:00,Santiago,Profesional - Licenciatura,247976
+149033,1980-08-09 05:00:00,Santiago,Profesional - Licenciatura,141389
+149034,1980-09-14 05:00:00,Santiago,Profesional - Licenciatura,175309
+149035,1980-12-17 05:00:00,Santiago,Profesional - Licenciatura,301999
+149037,1980-06-24 05:00:00,Santiago,Profesional - Licenciatura,319411
+149044,1979-01-08 05:00:00,Santiago,Especializacion - Postgrado,193414
+149045,1979-03-07 05:00:00,Santiago,Doctorado,197466
+149047,1980-03-16 05:00:00,Santiago,Especializacion - Postgrado,231642
+149048,1980-07-19 05:00:00,Santiago,Profesional - Licenciatura,244113
+149056,1979-10-04 05:00:00,Santiago,Bachillerato - Secundaria,189098
+149057,1980-08-14 05:00:00,Santiago,Especializacion - Postgrado,249947
+149058,1980-01-18 05:00:00,Santiago,Especializacion - Postgrado,293031
+149062,1980-02-23 05:00:00,Santiago,Profesional - Licenciatura,218112
+149064,1980-03-30 05:00:00,Santiago,Tecnico Universitario,295016
+149065,1980-05-01 05:00:00,Santiago,Tecnico Universitario,216592
+149066,1980-07-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,333557
+149069,1981-07-07 05:00:00,Santiago,Especializacion - Postgrado,303244
+149071,1981-07-24 05:00:00,Santiago,Especializacion - Postgrado,269725
+149075,1981-12-04 05:00:00,Santiago,Profesional - Licenciatura,170685
+149078,1981-02-11 05:00:00,Santiago,Profesional - Licenciatura,157341
+149079,1981-02-25 05:00:00,Santiago,Profesional - Licenciatura,291545
+149080,1981-10-21 05:00:00,Santiago,Profesional - Licenciatura,114234
+149081,1981-09-11 05:00:00,Santiago,Especializacion - Postgrado,269156
+149086,1981-07-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,223728
+149089,1981-05-28 05:00:00,Santiago,Profesional - Licenciatura,341568
+149091,1981-09-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,230430
+149094,1981-01-20 05:00:00,Santiago,Primaria,84824
+149096,1981-11-27 05:00:00,Santiago,Especializacion - Postgrado,100455
+149097,1981-03-18 05:00:00,Santiago,Profesional - Licenciatura,83320
+149103,1981-10-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,176026
+149106,1980-11-18 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,306259
+149108,1981-02-11 05:00:00,Santiago,Bachillerato - Secundaria,174048
+149110,1981-04-23 05:00:00,Santiago,Profesional - Licenciatura,237542
+149111,1981-10-05 05:00:00,Santiago,Profesional - Licenciatura,269414
+149114,1981-02-06 05:00:00,Santiago,Tecnico Universitario,248514
+149115,1981-03-13 05:00:00,Santiago,Maestria,72157
+149116,1981-04-25 05:00:00,Santiago,Profesional - Licenciatura,106700
+149118,1981-10-21 05:00:00,Santiago,Profesional - Licenciatura,159772
+149123,1981-05-12 05:00:00,Santiago,Tecnico Universitario,241783
+149124,1974-06-06 05:00:00,Santiago,Maestria,215835
+149127,1972-07-27 05:00:00,Santiago,Profesional - Licenciatura,199852
+149128,1974-04-27 05:00:00,Santiago,Especializacion - Postgrado,120303
+149131,1975-10-21 05:00:00,Santiago,Tecnico Universitario,260564
+149132,1977-03-20 05:00:00,Santiago,Tecnico Universitario,274667
+149140,1980-09-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,244560
+149142,1980-10-01 05:00:00,Santiago,Tecnico Universitario,190842
+149146,1979-09-23 05:00:00,Santiago,Especializacion - Postgrado,254049
+149147,1976-08-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,238764
+149148,1973-12-28 05:00:00,Santiago,Profesional - Licenciatura,348806
+149149,1977-04-05 05:00:00,Santiago,Profesional - Licenciatura,138960
+149150,1980-11-29 05:00:00,Santiago,Tecnico Universitario,215508
+149151,1979-06-07 05:00:00,Santiago,Especializacion - Postgrado,268071
+149154,1975-09-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,209252
+149156,1974-09-27 05:00:00,Santiago,Especializacion - Postgrado,206165
+149157,1973-03-25 05:00:00,Santiago,Especializacion - Postgrado,209713
+149158,1980-02-20 05:00:00,Santiago,Tecnico Universitario,160641
+149159,1980-10-27 05:00:00,Santiago,Tecnico Universitario,340550
+149160,1976-02-26 05:00:00,Santiago,Profesional - Licenciatura,289822
+149162,1978-05-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,170294
+149164,1981-09-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,269477
+149166,1991-03-30 05:00:00,Santiago,Profesional - Licenciatura,176317
+149171,1965-05-30 05:00:00,Santiago,Profesional - Licenciatura,73200
+149173,1981-10-14 05:00:00,Santiago,Tecnico Universitario,346698
+149175,1979-11-28 05:00:00,Santiago,Profesional - Licenciatura,131549
+149176,1991-11-27 05:00:00,Santiago,Profesional - Licenciatura,259054
+149179,1982-06-28 05:00:00,Santiago,Profesional - Licenciatura,124694
+149180,1983-05-01 05:00:00,Santiago,Profesional - Licenciatura,132065
+149185,1982-05-10 05:00:00,Santiago,Tecnico Universitario,268986
+149186,1982-09-20 05:00:00,Santiago,Profesional - Licenciatura,161612
+149187,1984-03-30 05:00:00,Santiago,Profesional - Licenciatura,82713
+149189,1982-05-02 05:00:00,Santiago,Especializacion - Postgrado,130667
+149190,1978-12-23 05:00:00,Santiago,Bachillerato - Secundaria,314553
+149191,1981-04-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,230694
+149192,1982-02-09 05:00:00,Santiago,Profesional - Licenciatura,268530
+149197,1981-12-19 05:00:00,Santiago,Profesional - Licenciatura,197878
+149201,1982-11-22 05:00:00,Santiago,Profesional - Licenciatura,252823
+149202,1982-01-07 05:00:00,Santiago,Especializacion - Postgrado,239670
+149204,1983-01-15 05:00:00,Santiago,Profesional - Licenciatura,189471
+149205,1982-08-15 05:00:00,Santiago,Profesional - Licenciatura,162816
+149207,1983-09-09 05:00:00,Santiago,Profesional - Licenciatura,78070
+149210,1984-11-03 05:00:00,Santiago,Tecnico Universitario,81228
+149214,1982-12-23 05:00:00,Santiago,Maestria,326280
+149217,1982-11-11 05:00:00,Santiago,Profesional - Licenciatura,283187
+149218,1982-10-24 05:00:00,Santiago,Profesional - Licenciatura,143899
+149219,1982-01-29 05:00:00,Santiago,Tecnico Universitario,130662
+149223,1982-10-28 05:00:00,Santiago,Especializacion - Postgrado,194911
+149224,1983-04-05 05:00:00,Santiago,Especializacion - Postgrado,337353
+149225,1983-05-30 05:00:00,Santiago,Profesional - Licenciatura,343717
+149230,1982-05-12 05:00:00,Santiago,Profesional - Licenciatura,186442
+149232,1983-03-31 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,151253
+149233,1983-06-01 05:00:00,Santiago,Profesional - Licenciatura,300222
+149236,1982-01-27 05:00:00,Santiago,Profesional - Licenciatura,135686
+149237,2021-04-15 05:00:00,Santiago,Profesional - Licenciatura,99285
+149239,1982-10-29 05:00:00,Santiago,Profesional - Licenciatura,161443
+149240,1982-11-30 05:00:00,Santiago,Profesional - Licenciatura,105549
+149241,1983-06-04 05:00:00,Santiago,Profesional - Licenciatura,116674
+149250,1983-02-08 05:00:00,Santiago,Profesional - Licenciatura,75437
+149257,1983-02-08 05:00:00,Santiago,Profesional - Licenciatura,92418
+149259,1983-02-19 05:00:00,Santiago,Profesional - Licenciatura,70275
+149260,1982-05-09 05:00:00,Santiago,Profesional - Licenciatura,158048
+149264,1983-04-10 05:00:00,Santiago,Tecnico Universitario,229482
+149265,1982-01-08 05:00:00,Santiago,Profesional - Licenciatura,210602
+149266,1981-11-09 05:00:00,Santiago,Especializacion - Postgrado,168135
+149269,1982-11-23 05:00:00,Santiago,Tecnico Universitario,217795
+149270,1981-12-02 05:00:00,Santiago,Tecnico Universitario,276679
+149275,1982-09-25 05:00:00,Santiago,Profesional - Licenciatura,116286
+149280,1982-04-08 05:00:00,Santiago,Profesional - Licenciatura,207631
+149281,1982-06-01 05:00:00,Santiago,Maestria,253114
+149283,1982-12-30 05:00:00,Santiago,Maestria,85706
+149285,1983-03-02 05:00:00,Santiago,Profesional - Licenciatura,110745
+149287,1983-05-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,302366
+149289,1982-02-28 05:00:00,Santiago,Maestria,309623
+149295,1984-02-18 05:00:00,Santiago,Primaria,140566
+149296,1983-03-29 05:00:00,Santiago,Tecnico Universitario,297536
+149297,1984-02-06 05:00:00,Santiago,Bachillerato - Secundaria,244135
+149301,1983-10-23 05:00:00,Santiago,Tecnico Universitario,120575
+149302,1983-01-09 05:00:00,Santiago,Especializacion - Postgrado,69295
+149310,1983-09-02 05:00:00,Santiago,Profesional - Licenciatura,135951
+149311,1983-10-17 05:00:00,Santiago,Especializacion - Postgrado,93175
+149315,1983-12-27 05:00:00,Santiago,Profesional - Licenciatura,120237
+149316,1984-06-03 05:00:00,Santiago,Tecnico Universitario,135810
+149317,1984-09-04 05:00:00,Santiago,Profesional - Licenciatura,81752
+149320,1983-11-10 05:00:00,Santiago,Profesional - Licenciatura,179367
+149324,1983-06-08 05:00:00,Santiago,Profesional - Licenciatura,181337
+149326,1983-11-30 05:00:00,Santiago,Profesional - Licenciatura,223595
+149333,1984-03-28 05:00:00,Santiago,Profesional - Licenciatura,326041
+149334,1984-05-24 05:00:00,Santiago,Profesional - Licenciatura,192906
+149335,1984-08-31 05:00:00,Santiago,Profesional - Licenciatura,125348
+149338,1984-09-29 05:00:00,Santiago,Maestria,80888
+149343,1984-03-10 05:00:00,Santiago,Profesional - Licenciatura,210540
+149346,1984-04-30 05:00:00,Arica,Profesional - Licenciatura,140681
+149348,1984-01-07 05:00:00,Santiago,Tecnico Universitario,294355
+149350,1983-09-30 05:00:00,Santiago,Profesional - Licenciatura,115890
+149352,1984-02-28 05:00:00,Santiago,Especializacion - Postgrado,231025
+149353,1983-08-19 05:00:00,Santiago,Maestria,261289
+149358,1983-08-28 05:00:00,Santiago,Profesional - Licenciatura,233065
+149359,1983-09-12 05:00:00,Santiago,Bachillerato - Secundaria,88519
+149361,1983-11-09 05:00:00,Santiago,Maestria,254582
+149362,1984-01-12 05:00:00,Santiago,Profesional - Licenciatura,236226
+149365,1984-12-26 05:00:00,Santiago,Profesional - Licenciatura,315108
+149368,1984-10-20 05:00:00,Santiago,Profesional - Licenciatura,346620
+149369,1984-01-06 05:00:00,Santiago,Profesional - Licenciatura,168865
+149379,1984-03-20 05:00:00,Santiago,Profesional - Licenciatura,204913
+149380,1984-12-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,238445
+149382,1984-03-16 05:00:00,Santiago,Especializacion - Postgrado,318812
+149386,1984-10-23 05:00:00,Santiago,Maestria,162628
+149390,1984-07-26 05:00:00,Santiago,Profesional - Licenciatura,245265
+149392,1984-11-08 05:00:00,Santiago,Bachillerato - Secundaria,318373
+149394,1984-10-06 05:00:00,Santiago,Maestria,240473
+149395,1985-06-28 05:00:00,Santiago,Profesional - Licenciatura,343925
+149397,1984-11-08 05:00:00,Santiago,Tecnico Universitario,260321
+149399,1985-03-02 05:00:00,Santiago,Profesional - Licenciatura,112203
+149402,1984-09-27 05:00:00,Santiago,Profesional - Licenciatura,282443
+149404,1984-11-17 05:00:00,Santiago,Profesional - Licenciatura,310254
+149405,1984-06-07 05:00:00,Santiago,Profesional - Licenciatura,126103
+149406,1985-06-20 05:00:00,Santiago,Especializacion - Postgrado,130667
+149410,1984-09-14 05:00:00,Santiago,Profesional - Licenciatura,239784
+149413,1985-01-15 05:00:00,Santiago,Profesional - Licenciatura,160003
+149415,1985-03-29 05:00:00,Santiago,Profesional - Licenciatura,150116
+149418,1985-09-30 05:00:00,Santiago,Tecnico Universitario,125445
+149419,1984-12-14 05:00:00,Santiago,Maestria,231715
+149425,1985-04-10 05:00:00,Santiago,Especializacion - Postgrado,196700
+149427,1985-09-08 05:00:00,Santiago,Maestria,129262
+149428,1985-10-18 05:00:00,Santiago,Especializacion - Postgrado,83786
+149433,1985-10-18 05:00:00,Santiago,Profesional - Licenciatura,295333
+149435,1985-03-08 05:00:00,Santiago,Profesional - Licenciatura,119919
+149436,1985-05-08 05:00:00,Santiago,Especializacion - Postgrado,290005
+149437,1985-02-20 05:00:00,Santiago,Profesional - Licenciatura,233773
+149441,1985-02-03 05:00:00,Santiago,Profesional - Licenciatura,251235
+149443,1985-04-14 05:00:00,Santiago,Maestria,267308
+149446,1985-04-24 05:00:00,Santiago,Profesional - Licenciatura,251123
+149450,1985-10-30 05:00:00,Santiago,Especializacion - Postgrado,294635
+149453,1985-03-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,213462
+149454,1985-11-18 05:00:00,Santiago,Profesional - Licenciatura,71610
+149456,1985-05-31 05:00:00,Santiago,Bachillerato - Secundaria,208330
+149459,1985-11-17 05:00:00,Santiago,Profesional - Licenciatura,212175
+149460,1985-10-19 05:00:00,Santiago,Especializacion - Postgrado,140452
+149462,1985-08-26 05:00:00,Santiago,Profesional - Licenciatura,261857
+149463,1985-04-22 05:00:00,Santiago,Profesional - Licenciatura,281612
+149474,1986-10-06 05:00:00,Santiago,Profesional - Licenciatura,348445
+149478,1986-08-14 05:00:00,Santiago,Profesional - Licenciatura,226962
+149479,1985-12-18 05:00:00,Santiago,Profesional - Licenciatura,90848
+149482,1985-11-27 05:00:00,Santiago,Profesional - Licenciatura,145180
+149486,1985-12-14 05:00:00,Santiago,Profesional - Licenciatura,184818
+149489,1986-02-19 05:00:00,Santiago,Tecnico Universitario,344792
+149490,1986-03-13 05:00:00,Santiago,Profesional - Licenciatura,92757
+149493,1986-05-18 05:00:00,Santiago,Profesional - Licenciatura,235989
+149496,1986-09-19 05:00:00,Santiago,Profesional - Licenciatura,310467
+149500,1986-06-13 05:00:00,Santiago,Profesional - Licenciatura,162494
+149502,1986-10-11 05:00:00,Santiago,Profesional - Licenciatura,68398
+149503,1986-11-14 05:00:00,Santiago,Profesional - Licenciatura,243008
+149509,1987-06-18 05:00:00,Santiago,Especializacion - Postgrado,173287
+149511,1987-06-23 05:00:00,Santiago,Profesional - Licenciatura,78953
+149519,1986-09-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,149288
+149521,1987-09-11 05:00:00,Santiago,Tecnico Universitario,236744
+149528,1986-10-07 05:00:00,Santiago,Profesional - Licenciatura,81770
+149529,1986-11-04 05:00:00,Santiago,Profesional - Licenciatura,230752
+149534,1986-10-31 05:00:00,Santiago,Profesional - Licenciatura,321219
+149535,1987-04-15 05:00:00,Santiago,Profesional - Licenciatura,185578
+149537,1987-04-27 05:00:00,Santiago,Profesional - Licenciatura,141974
+149541,1986-09-18 05:00:00,Santiago,Profesional - Licenciatura,199021
+149543,1986-09-20 05:00:00,Santiago,Maestria,124765
+149544,1986-09-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,311180
+149545,1987-01-28 05:00:00,Santiago,Profesional - Licenciatura,321594
+149548,1987-07-13 05:00:00,Santiago,Tecnico Universitario,218958
+149549,1987-01-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,218085
+149550,1987-03-28 05:00:00,Santiago,Profesional - Licenciatura,99862
+149552,1987-01-21 05:00:00,Santiago,Profesional - Licenciatura,270158
+149554,1985-06-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,269549
+149559,1987-04-21 05:00:00,Santiago,Profesional - Licenciatura,340471
+149566,1987-12-21 05:00:00,Santiago,Profesional - Licenciatura,311647
+149570,1988-03-15 05:00:00,Santiago,Especializacion - Postgrado,308605
+149571,1988-04-21 05:00:00,Santiago,Profesional - Licenciatura,204036
+149572,1988-04-25 05:00:00,Santiago,Profesional - Licenciatura,128023
+149574,1988-06-10 05:00:00,Santiago,Profesional - Licenciatura,249443
+149579,1988-08-31 05:00:00,Santiago,Profesional - Licenciatura,83906
+149582,1987-04-15 05:00:00,Santiago,Tecnico Universitario,208586
+149584,1987-02-27 05:00:00,Santiago,Profesional - Licenciatura,349527
+149590,1986-07-27 05:00:00,Santiago,Profesional - Licenciatura,301623
+149593,1987-07-25 05:00:00,Santiago,Profesional - Licenciatura,224730
+149594,1987-08-03 05:00:00,Santiago,Especializacion - Postgrado,123930
+149595,1987-10-23 05:00:00,Santiago,Profesional - Licenciatura,315947
+149598,1988-02-12 05:00:00,Santiago,Profesional - Licenciatura,294720
+149599,1987-05-18 05:00:00,Santiago,Especializacion - Postgrado,293413
+149600,1988-04-10 05:00:00,Santiago,Profesional - Licenciatura,166110
+149601,1987-05-08 05:00:00,Santiago,Profesional - Licenciatura,264161
+149605,1988-04-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,250582
+149606,1987-07-18 05:00:00,Santiago,Especializacion - Postgrado,313769
+149608,1987-10-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,247033
+149616,1988-04-30 05:00:00,Santiago,Profesional - Licenciatura,154159
+149621,1987-09-17 05:00:00,Santiago,Tecnico Universitario,286098
+149623,1988-03-08 05:00:00,Santiago,Profesional - Licenciatura,348131
+149624,1988-02-19 05:00:00,Santiago,Profesional - Licenciatura,136189
+149625,1988-09-08 05:00:00,Santiago,Profesional - Licenciatura,288874
+149626,1987-12-09 05:00:00,Santiago,Profesional - Licenciatura,252461
+149628,1988-10-29 05:00:00,Santiago,Profesional - Licenciatura,215352
+149629,1987-10-13 05:00:00,Santiago,Especializacion - Postgrado,229840
+149630,1988-07-26 05:00:00,Santiago,Profesional - Licenciatura,193084
+149631,1987-12-23 05:00:00,Santiago,Bachillerato - Secundaria,99772
+149632,1988-03-01 05:00:00,Santiago,Tecnico Universitario,176262
+149634,1988-05-26 05:00:00,Santiago,Profesional - Licenciatura,344457
+149635,1988-02-04 05:00:00,Santiago,Maestria,125599
+149638,1989-01-23 05:00:00,Santiago,Profesional - Licenciatura,150103
+149640,1988-07-04 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,240782
+149642,1988-09-28 05:00:00,Santiago,Especializacion - Postgrado,162176
+149643,1988-10-12 05:00:00,Santiago,Profesional - Licenciatura,121663
+149648,1988-08-25 05:00:00,Santiago,Profesional - Licenciatura,327796
+149651,1988-08-20 05:00:00,Santiago,Profesional - Licenciatura,284325
+149657,1988-06-05 05:00:00,Santiago,Profesional - Licenciatura,188120
+149667,2021-12-04 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,260897
+149668,1988-12-22 05:00:00,Santiago,Profesional - Licenciatura,69968
+149673,1988-09-23 05:00:00,Santiago,Profesional - Licenciatura,274033
+149674,1988-09-30 05:00:00,Santiago,Profesional - Licenciatura,115537
+149677,1989-02-13 05:00:00,Santiago,Profesional - Licenciatura,99624
+149678,1989-05-10 05:00:00,Santiago,Profesional - Licenciatura,200274
+149734,1989-07-04 05:00:00,Santiago,Profesional - Licenciatura,140897
+149735,1988-12-10 05:00:00,Santiago,Profesional - Licenciatura,271566
+149749,1989-06-01 05:00:00,Santiago,Profesional - Licenciatura,306456
+149752,1989-07-08 05:00:00,Santiago,Profesional - Licenciatura,155347
+149753,1989-07-16 05:00:00,Santiago,Profesional - Licenciatura,323469
+149754,1989-08-03 05:00:00,Santiago,Especializacion - Postgrado,339856
+149757,1988-12-19 05:00:00,Santiago,Bachillerato - Secundaria,90717
+149763,1988-09-16 05:00:00,Santiago,Profesional - Licenciatura,101736
+149764,1988-10-31 05:00:00,Santiago,Profesional - Licenciatura,340974
+149766,1989-07-18 05:00:00,Santiago,Profesional - Licenciatura,225718
+149767,1989-05-14 05:00:00,Santiago,Profesional - Licenciatura,197538
+149770,1988-06-27 05:00:00,Santiago,Profesional - Licenciatura,271835
+149774,1989-07-15 05:00:00,Santiago,Profesional - Licenciatura,299055
+149777,1989-08-13 05:00:00,Santiago,Profesional - Licenciatura,202503
+149784,1989-09-05 05:00:00,Santiago,Profesional - Licenciatura,227172
+149785,1989-09-19 05:00:00,Santiago,Bachillerato - Secundaria,111599
+149789,1989-08-04 05:00:00,Santiago,Especializacion - Postgrado,329900
+149790,1989-06-25 05:00:00,Santiago,Tecnico Universitario,260912
+149794,1989-08-20 05:00:00,Santiago,Profesional - Licenciatura,141708
+149796,1990-03-14 05:00:00,Santiago,Especializacion - Postgrado,339984
+149800,1992-08-29 05:00:00,Santiago,Profesional - Licenciatura,265344
+149802,1992-09-24 05:00:00,Santiago,Especializacion - Postgrado,276540
+149803,1984-05-09 05:00:00,Santiago,Profesional - Licenciatura,252549
+149805,1989-07-30 05:00:00,Santiago,Bachillerato - Secundaria,160488
+149806,1992-09-10 05:00:00,Santiago,Profesional - Licenciatura,267921
+149811,1990-08-03 05:00:00,Santiago,Profesional - Licenciatura,269518
+149812,1991-10-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,275564
+149814,1992-05-10 05:00:00,Santiago,Especializacion - Postgrado,116461
+149816,1992-08-30 05:00:00,Santiago,Especializacion - Postgrado,265025
+149817,1990-06-27 05:00:00,Santiago,Especializacion - Postgrado,305507
+149819,1990-07-06 05:00:00,Santiago,Profesional - Licenciatura,180941
+149821,1990-01-29 05:00:00,Santiago,Especializacion - Postgrado,144494
+149824,1992-03-28 05:00:00,Santiago,Profesional - Licenciatura,265008
+149827,2021-04-16 05:00:00,Santiago,Tecnico Universitario,330107
+149829,1990-02-15 05:00:00,Santiago,Profesional - Licenciatura,341865
+149830,1992-01-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,303278
+149832,1992-07-17 05:00:00,Santiago,Profesional - Licenciatura,242719
+149833,1992-01-07 05:00:00,Santiago,Profesional - Licenciatura,187589
+149835,1992-07-15 05:00:00,Santiago,Profesional - Licenciatura,150614
+149840,1990-08-30 05:00:00,Santiago,Profesional - Licenciatura,131406
+149842,1990-09-21 05:00:00,Santiago,Especializacion - Postgrado,219634
+149849,1990-05-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,224448
+149850,1990-02-21 05:00:00,Santiago,Bachillerato - Secundaria,271382
+149851,1989-12-11 05:00:00,Santiago,Profesional - Licenciatura,117701
+149853,1990-02-22 05:00:00,Santiago,Profesional - Licenciatura,320922
+149854,1990-05-09 05:00:00,Santiago,Profesional - Licenciatura,99360
+149856,1989-10-25 05:00:00,Santiago,Profesional - Licenciatura,318224
+149857,1990-02-21 05:00:00,Santiago,Profesional - Licenciatura,127259
+149861,1990-12-26 05:00:00,Santiago,Especializacion - Postgrado,229511
+149864,1987-11-20 05:00:00,Santiago,Profesional - Licenciatura,348739
+149866,1991-09-11 05:00:00,Santiago,Profesional - Licenciatura,223358
+149872,1990-12-17 05:00:00,Santiago,Profesional - Licenciatura,299302
+149875,1991-10-10 05:00:00,Santiago,Profesional - Licenciatura,172879
+149878,1992-08-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,298719
+149879,1992-09-18 05:00:00,Santiago,Profesional - Licenciatura,147462
+149880,1992-01-22 05:00:00,Santiago,Profesional - Licenciatura,290345
+149882,1992-11-14 05:00:00,Santiago,Profesional - Licenciatura,161894
+149886,1992-10-21 05:00:00,Santiago,Maestria,74002
+149887,1992-09-14 05:00:00,Santiago,Profesional - Licenciatura,132699
+149888,1992-10-24 05:00:00,Santiago,Profesional - Licenciatura,213537
+149895,1992-07-15 05:00:00,Santiago,Especializacion - Postgrado,130787
+149899,1992-10-20 05:00:00,Santiago,Profesional - Licenciatura,182758
+149902,1993-01-20 05:00:00,Santiago,Profesional - Licenciatura,306527
+149903,1992-12-26 05:00:00,Santiago,Profesional - Licenciatura,84825
+149905,1993-02-19 05:00:00,Santiago,Especializacion - Postgrado,326328
+149906,1993-01-10 05:00:00,Santiago,Profesional - Licenciatura,241413
+149907,1992-06-10 05:00:00,Santiago,Bachillerato - Secundaria,173687
+149909,1992-10-05 05:00:00,Santiago,Profesional - Licenciatura,228649
+149911,1992-12-14 05:00:00,Santiago,Tecnico Universitario,83705
+149912,1992-12-10 05:00:00,Santiago,Profesional - Licenciatura,158048
+149913,1992-09-30 05:00:00,Santiago,Profesional - Licenciatura,96981
+149916,1992-10-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,348985
+149917,1991-01-04 05:00:00,Santiago,Profesional - Licenciatura,115203
+149919,1992-11-14 05:00:00,Santiago,Profesional - Licenciatura,159660
+149921,1993-03-31 05:00:00,Santiago,Profesional - Licenciatura,332441
+149928,1990-09-08 05:00:00,Santiago,Profesional - Licenciatura,223907
+149934,1993-04-16 05:00:00,Santiago,Profesional - Licenciatura,308875
+149940,1993-04-09 05:00:00,Santiago,Profesional - Licenciatura,164937
+149943,1993-04-28 05:00:00,Santiago,Profesional - Licenciatura,217096
+149954,1991-02-02 05:00:00,Santiago,Especializacion - Postgrado,285355
+149958,1993-07-31 05:00:00,Santiago,Profesional - Licenciatura,292159
+149961,1992-11-27 05:00:00,Santiago,Profesional - Licenciatura,135587
+149963,1991-05-31 05:00:00,Santiago,Profesional - Licenciatura,212650
+149968,1993-03-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,104511
+149969,1991-07-22 05:00:00,Santiago,Profesional - Licenciatura,214467
+149971,1977-11-14 05:00:00,Santiago,Profesional - Licenciatura,305435
+149984,1993-07-22 05:00:00,Santiago,Profesional - Licenciatura,226782
+149988,1995-04-25 05:00:00,Santiago,Profesional - Licenciatura,291352
+149994,1993-09-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,206118
+149996,1993-10-29 05:00:00,Santiago,Profesional - Licenciatura,88378
+149998,1992-12-07 05:00:00,Santiago,Profesional - Licenciatura,313877
+150001,1994-04-16 05:00:00,Santiago,Profesional - Licenciatura,265234
+150002,1994-03-31 05:00:00,Santiago,Profesional - Licenciatura,227023
+150009,1993-09-04 05:00:00,Santiago,Profesional - Licenciatura,223977
+150011,1994-10-13 05:00:00,Santiago,Profesional - Licenciatura,214694
+150014,1994-10-26 05:00:00,Santiago,Maestria,177075
+150015,1993-09-14 05:00:00,Santiago,Especializacion - Postgrado,204144
+150018,1993-09-11 05:00:00,Santiago,Profesional - Licenciatura,153025
+150019,1993-09-24 05:00:00,Santiago,Profesional - Licenciatura,239863
+150022,1994-01-27 05:00:00,Santiago,Profesional - Licenciatura,293383
+150027,1993-11-23 05:00:00,Santiago,Profesional - Licenciatura,186487
+150035,1994-02-01 05:00:00,Santiago,Profesional - Licenciatura,251049
+150036,1994-03-25 05:00:00,Santiago,Profesional - Licenciatura,187179
+150037,1994-05-07 05:00:00,Santiago,Profesional - Licenciatura,309080
+150082,1991-07-16 05:00:00,Santiago,Profesional - Licenciatura,259168
+150084,1991-08-20 05:00:00,Santiago,Profesional - Licenciatura,271227
+150088,1990-12-11 05:00:00,Santiago,Profesional - Licenciatura,325600
+150092,1990-10-31 05:00:00,Santiago,Profesional - Licenciatura,331625
+150094,1991-01-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,71005
+150100,1991-04-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,327186
+150102,1990-12-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,330177
+150104,1990-08-22 05:00:00,Santiago,Tecnico Universitario,227415
+150111,1991-06-17 05:00:00,Santiago,Profesional - Licenciatura,291642
+150112,1991-05-26 05:00:00,Santiago,Profesional - Licenciatura,186189
+150116,1991-01-17 05:00:00,Santiago,Profesional - Licenciatura,321222
+150117,1991-04-28 05:00:00,Santiago,Profesional - Licenciatura,110592
+150118,1991-10-08 05:00:00,Santiago,Profesional - Licenciatura,307486
+150120,1991-10-16 05:00:00,Santiago,Profesional - Licenciatura,116834
+150123,1991-01-07 05:00:00,Santiago,Profesional - Licenciatura,70242
+150124,1991-08-11 05:00:00,Santiago,Profesional - Licenciatura,212135
+150128,1991-03-30 05:00:00,Santiago,Profesional - Licenciatura,221558
+150129,1995-11-30 05:00:00,Santiago,Profesional - Licenciatura,309992
+150132,1995-05-19 05:00:00,Santiago,Profesional - Licenciatura,332420
+150135,1992-03-24 05:00:00,Santiago,Profesional - Licenciatura,312064
+150136,1994-11-07 05:00:00,Santiago,Profesional - Licenciatura,325952
+150140,1994-12-20 05:00:00,Santiago,Profesional - Licenciatura,235673
+150144,1991-05-03 05:00:00,Santiago,Profesional - Licenciatura,69287
+150146,1995-02-28 05:00:00,Santiago,Profesional - Licenciatura,118381
+150151,1995-01-05 05:00:00,Santiago,Profesional - Licenciatura,292591
+150152,1994-09-19 05:00:00,Santiago,Profesional - Licenciatura,308180
+150154,1994-12-27 05:00:00,Santiago,Profesional - Licenciatura,217656
+150157,1995-07-26 05:00:00,Santiago,Profesional - Licenciatura,109892
+150162,1994-11-30 05:00:00,Santiago,Profesional - Licenciatura,251002
+150163,1995-02-15 05:00:00,Santiago,Profesional - Licenciatura,190732
+150168,1994-08-05 05:00:00,Santiago,Profesional - Licenciatura,91374
+150170,1994-09-16 05:00:00,Santiago,Profesional - Licenciatura,277076
+150178,1995-05-22 05:00:00,Santiago,Profesional - Licenciatura,156467
+150181,1995-01-23 05:00:00,Santiago,Profesional - Licenciatura,159080
+150193,1991-11-21 05:00:00,Santiago,Tecnico Universitario,107191
+150202,1992-01-21 05:00:00,Santiago,Profesional - Licenciatura,342657
+150204,1992-04-29 05:00:00,Santiago,Profesional - Licenciatura,295675
+150289,1995-04-24 05:00:00,Santiago,Especializacion - Postgrado,90812
+150291,1995-07-16 05:00:00,Santiago,Profesional - Licenciatura,178080
+150296,1995-12-06 05:00:00,Santiago,Profesional - Licenciatura,136136
+150297,1995-03-16 05:00:00,Santiago,Profesional - Licenciatura,72920
+150302,1995-09-26 05:00:00,Santiago,Profesional - Licenciatura,82992
+150306,1995-08-16 05:00:00,Santiago,Profesional - Licenciatura,117546
+150313,1996-03-01 05:00:00,Santiago,Profesional - Licenciatura,145550
+150316,1996-02-18 05:00:00,Santiago,Profesional - Licenciatura,299737
+150318,1996-03-29 05:00:00,Santiago,Especializacion - Postgrado,319878
+150319,1996-08-13 05:00:00,Santiago,Profesional - Licenciatura,338739
+150322,1996-04-08 05:00:00,Santiago,Profesional - Licenciatura,74055
+150323,1996-05-17 05:00:00,Santiago,Profesional - Licenciatura,113600
+150326,1996-06-03 05:00:00,Santiago,Profesional - Licenciatura,147420
+150329,1953-12-23 05:00:00,Santiago,Tecnico Universitario,89418
+150330,1997-06-21 05:00:00,Santiago,Profesional - Licenciatura,68764
+150331,1917-05-28 05:00:00,Santiago,Profesional - Licenciatura,277533
+150333,1968-10-15 05:00:00,Santiago,Profesional - Licenciatura,196996
+150336,1996-12-20 05:00:00,Santiago,Profesional - Licenciatura,298506
+150342,1997-05-12 05:00:00,Santiago,Profesional - Licenciatura,79871
+150344,1962-06-19 05:00:00,Santiago,Profesional - Licenciatura,163442
+150348,1996-08-13 05:00:00,Santiago,Profesional - Licenciatura,180059
+150354,1955-04-27 05:00:00,Santiago,Tecnico Universitario,135653
+150356,1958-10-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,298500
+150360,1964-10-26 05:00:00,Santiago,Profesional - Licenciatura,99580
+150367,1959-10-21 05:00:00,Santiago,Primaria,240451
+150369,1960-08-27 05:00:00,Santiago,Tecnico Universitario,205727
+150374,1956-11-14 05:00:00,Santiago,Profesional - Licenciatura,155019
+150376,1968-01-31 05:00:00,Santiago,Especializacion - Postgrado,106401
+150377,1959-01-24 05:00:00,Santiago,Profesional - Licenciatura,224913
+150378,1958-05-10 05:00:00,Santiago,Tecnico Universitario,88427
+150380,1967-03-21 05:00:00,Santiago,Profesional - Licenciatura,234173
+150382,1980-08-27 05:00:00,Santiago,Profesional - Licenciatura,283716
+150384,1970-11-25 05:00:00,Valparaiso,Tecnico - Preparatoria - T. Profesional,213777
+150390,1960-10-30 05:00:00,Santiago,Especializacion - Postgrado,202314
+150393,1968-03-03 05:00:00,Santiago,Especializacion - Postgrado,336024
+150397,1970-01-18 05:00:00,Santiago,Profesional - Licenciatura,79622
+150401,1971-02-18 05:00:00,Santiago,Profesional - Licenciatura,174738
+150402,1996-08-05 05:00:00,Santiago,Profesional - Licenciatura,329542
+150407,1996-12-30 05:00:00,Santiago,Maestria,132260
+150412,1963-11-29 05:00:00,Santiago,Profesional - Licenciatura,284279
+150416,1965-04-30 05:00:00,Santiago,Profesional - Licenciatura,71182
+150418,1959-07-04 05:00:00,Santiago,Bachillerato - Secundaria,134768
+150420,1975-07-26 05:00:00,Santiago,Especializacion - Postgrado,302252
+150428,1997-08-23 05:00:00,Santiago,Profesional - Licenciatura,221547
+150429,1997-06-02 05:00:00,Santiago,Profesional - Licenciatura,324166
+150437,1998-05-14 05:00:00,Santiago,Bachillerato - Secundaria,118041
+150438,1961-06-05 05:00:00,Santiago,Profesional - Licenciatura,94479
+150447,1963-05-23 05:00:00,Santiago,Tecnico Universitario,220035
+150450,1978-08-28 05:00:00,Santiago,Profesional - Licenciatura,317270
+150453,1977-03-14 05:00:00,Santiago,Profesional - Licenciatura,194446
+150457,1961-08-20 05:00:00,Santiago,Bachillerato - Secundaria,76088
+150458,1964-07-26 05:00:00,Santiago,Tecnico Universitario,264136
+150460,1978-01-20 05:00:00,Santiago,Profesional - Licenciatura,343896
+150462,1963-08-12 05:00:00,Santiago,Profesional - Licenciatura,165890
+150464,1967-03-04 05:00:00,Santiago,Profesional - Licenciatura,280860
+150466,1962-09-10 05:00:00,Santiago,Maestria,224640
+150467,1963-11-08 05:00:00,Santiago,Profesional - Licenciatura,126191
+150470,2021-04-01 05:00:00,Santiago,Profesional - Licenciatura,259960
+150471,1963-09-08 05:00:00,Santiago,Tecnico Universitario,265605
+150478,1967-12-16 05:00:00,Santiago,Profesional - Licenciatura,222388
+150481,1962-07-26 05:00:00,Santiago,Especializacion - Postgrado,89919
+150482,1966-02-06 05:00:00,Santiago,Tecnico Universitario,335247
+150483,1964-11-16 05:00:00,Santiago,Profesional - Licenciatura,70550
+150490,1963-06-26 05:00:00,Santiago,Profesional - Licenciatura,129542
+150491,1965-08-21 05:00:00,Santiago,Profesional - Licenciatura,141784
+150492,1967-12-05 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,274106
+150499,1988-08-21 05:00:00,Santiago,Profesional - Licenciatura,148751
+150500,1966-03-06 05:00:00,Santiago,Profesional - Licenciatura,302197
+150501,1968-12-17 05:00:00,Santiago,Profesional - Licenciatura,126434
+150504,1970-01-29 05:00:00,Santiago,Maestria,309844
+150505,1984-08-05 05:00:00,Santiago,Profesional - Licenciatura,186623
+150507,1983-10-17 05:00:00,Santiago,Maestria,328813
+150508,1983-10-13 05:00:00,Santiago,Profesional - Licenciatura,340852
+150509,1971-06-03 05:00:00,Santiago,Profesional - Licenciatura,309573
+150510,1984-10-13 05:00:00,Santiago,Profesional - Licenciatura,138684
+150511,1971-04-21 05:00:00,Santiago,Tecnico Universitario,99664
+150512,1987-05-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,246236
+150515,1975-05-05 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,341991
+150517,1975-02-08 05:00:00,Santiago,Especializacion - Postgrado,232580
+150518,1989-01-19 05:00:00,Santiago,Profesional - Licenciatura,319456
+150519,1975-09-07 05:00:00,Santiago,Bachillerato - Secundaria,202163
+150520,1989-12-04 05:00:00,Santiago,Maestria,344510
+150522,1963-02-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,92950
+150527,1978-05-11 05:00:00,Santiago,Tecnico Universitario,313118
+150528,1962-09-24 05:00:00,Santiago,Profesional - Licenciatura,293311
+150529,1992-05-07 05:00:00,Santiago,Especializacion - Postgrado,321875
+150530,1979-08-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,88143
+150531,1960-05-22 05:00:00,Santiago,Profesional - Licenciatura,75016
+150535,2021-04-21 05:00:00,Santiago,Profesional - Licenciatura,331297
+150538,1965-12-05 05:00:00,Santiago,Bachillerato - Secundaria,317912
+150539,1980-06-21 05:00:00,Santiago,Especializacion - Postgrado,128466
+150547,1969-11-03 05:00:00,Santiago,Especializacion - Postgrado,272723
+150549,1972-04-15 05:00:00,Santiago,Especializacion - Postgrado,311307
+150551,1977-08-16 05:00:00,Santiago,Tecnico Universitario,120610
+150552,1992-09-12 05:00:00,Santiago,Profesional - Licenciatura,167526
+150554,1976-07-02 05:00:00,Santiago,Profesional - Licenciatura,265749
+150557,1980-08-27 05:00:00,Santiago,Bachillerato - Secundaria,100943
+150559,1972-01-31 05:00:00,Santiago,Tecnico Universitario,214701
+150561,1971-12-30 05:00:00,Santiago,Profesional - Licenciatura,136044
+150562,1973-06-12 05:00:00,Santiago,Bachillerato - Secundaria,328735
+150564,1957-11-30 05:00:00,Santiago,Bachillerato - Secundaria,107747
+150565,1973-10-25 05:00:00,Santiago,Tecnico Universitario,308433
+150566,1974-04-06 05:00:00,Santiago,Bachillerato - Secundaria,334400
+150567,1975-03-15 05:00:00,Santiago,Profesional - Licenciatura,192150
+150568,1975-02-15 05:00:00,Santiago,Profesional - Licenciatura,278543
+150569,1975-01-11 05:00:00,Santiago,Profesional - Licenciatura,155558
+150570,1976-07-31 05:00:00,Santiago,Profesional - Licenciatura,120575
+150576,1978-10-03 05:00:00,Santiago,Tecnico Universitario,228775
+150579,1978-10-31 05:00:00,Santiago,Profesional - Licenciatura,97270
+150582,1978-10-11 05:00:00,Santiago,Profesional - Licenciatura,202104
+150583,1979-06-25 05:00:00,Santiago,Tecnico Universitario,173178
+150584,1979-03-05 05:00:00,Santiago,Maestria,221788
+150585,1980-01-01 05:00:00,Santiago,Profesional - Licenciatura,235486
+150587,1980-07-22 05:00:00,Santiago,Profesional - Licenciatura,137383
+150589,1981-03-03 05:00:00,Santiago,Profesional - Licenciatura,116533
+150596,1985-10-14 05:00:00,Santiago,Profesional - Licenciatura,241679
+150597,1982-04-29 05:00:00,Santiago,Tecnico Universitario,94840
+150598,1983-05-23 05:00:00,Santiago,Profesional - Licenciatura,256666
+150599,1983-11-14 05:00:00,Santiago,Primaria,214069
+150602,1984-09-15 05:00:00,Santiago,Profesional - Licenciatura,246412
+150603,1984-12-17 05:00:00,Santiago,Tecnico Universitario,343871
+150608,1992-04-22 05:00:00,Santiago,Profesional - Licenciatura,198880
+150610,1980-02-22 05:00:00,Santiago,Profesional - Licenciatura,338585
+150612,1979-10-05 05:00:00,Santiago,Especializacion - Postgrado,285816
+150616,1991-11-15 05:00:00,Santiago,Profesional - Licenciatura,75247
+150624,1990-08-07 05:00:00,Santiago,Profesional - Licenciatura,245927
+150630,1993-04-08 05:00:00,Santiago,Profesional - Licenciatura,346144
+150635,1966-12-31 05:00:00,Santiago,Profesional - Licenciatura,152216
+150640,1987-06-26 05:00:00,Santiago,Especializacion - Postgrado,271553
+150646,1976-03-16 05:00:00,Santiago,Profesional - Licenciatura,238069
+150647,1990-10-01 05:00:00,Santiago,Tecnico Universitario,147521
+150653,1976-07-06 05:00:00,Santiago,Maestria,176821
+150655,1988-12-16 05:00:00,Santiago,Profesional - Licenciatura,131636
+150658,1990-02-08 05:00:00,Santiago,Bachillerato - Secundaria,272949
+150660,1988-03-02 05:00:00,Santiago,Maestria,294307
+150661,1980-02-26 05:00:00,Santiago,Profesional - Licenciatura,163240
+150664,1980-07-05 05:00:00,Santiago,Especializacion - Postgrado,335700
+150665,1987-05-11 05:00:00,Santiago,Tecnico Universitario,348241
+150666,1986-12-25 05:00:00,Santiago,Especializacion - Postgrado,184251
+150667,1989-02-12 05:00:00,Santiago,Profesional - Licenciatura,187813
+150668,1985-05-05 05:00:00,Santiago,Profesional - Licenciatura,222593
+150672,1973-08-24 05:00:00,Santiago,Profesional - Licenciatura,262530
+150673,1980-05-13 05:00:00,Santiago,Profesional - Licenciatura,245487
+150674,1977-03-05 05:00:00,Santiago,Profesional - Licenciatura,347682
+150677,1975-12-23 05:00:00,Santiago,Profesional - Licenciatura,210614
+150679,1980-03-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,322105
+150680,1985-05-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,202069
+150683,1980-12-26 05:00:00,Santiago,Profesional - Licenciatura,131205
+150684,1992-10-20 05:00:00,Santiago,Profesional - Licenciatura,80687
+150686,1990-05-12 05:00:00,Santiago,Profesional - Licenciatura,309832
+150687,1989-11-11 05:00:00,Santiago,Profesional - Licenciatura,236349
+150691,1979-11-03 05:00:00,Santiago,Maestria,207639
+150692,1982-11-06 05:00:00,Santiago,Especializacion - Postgrado,297416
+150694,1982-07-23 05:00:00,Santiago,Profesional - Licenciatura,295869
+150698,1985-04-05 05:00:00,Santiago,Profesional - Licenciatura,284124
+150699,1989-08-15 05:00:00,Santiago,Profesional - Licenciatura,217064
+150701,1992-05-27 05:00:00,Santiago,Profesional - Licenciatura,240569
+150703,1987-10-09 05:00:00,Santiago,Bachillerato - Secundaria,230641
+150705,1986-03-25 05:00:00,Santiago,Maestria,160118
+150706,1988-09-07 05:00:00,Santiago,Profesional - Licenciatura,111337
+150708,1991-06-16 05:00:00,Santiago,Profesional - Licenciatura,167758
+150709,1990-03-25 05:00:00,Santiago,Profesional - Licenciatura,191706
+150714,1988-09-26 05:00:00,Santiago,Tecnico Universitario,346028
+150724,1985-09-30 05:00:00,Santiago,Profesional - Licenciatura,303004
+150726,1990-03-22 05:00:00,Santiago,Profesional - Licenciatura,285354
+150730,1982-04-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,190230
+150732,1995-06-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,288242
+150733,1986-05-25 05:00:00,Santiago,Profesional - Licenciatura,111366
+150734,1992-01-07 05:00:00,Santiago,Profesional - Licenciatura,302252
+150735,1988-07-06 05:00:00,Santiago,Maestria,316721
+150738,1993-07-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,86973
+150739,1986-05-16 05:00:00,Santiago,Profesional - Licenciatura,348333
+150742,1987-01-12 05:00:00,Santiago,Profesional - Licenciatura,238685
+150744,1992-01-15 05:00:00,Santiago,Profesional - Licenciatura,265626
+150746,1985-02-27 05:00:00,Santiago,Maestria,331026
+150748,1987-11-05 05:00:00,Santiago,Profesional - Licenciatura,253171
+150751,1987-08-21 05:00:00,Santiago,Tecnico Universitario,332044
+150754,1988-10-11 05:00:00,Santiago,Profesional - Licenciatura,179958
+150755,1993-07-03 05:00:00,Santiago,Profesional - Licenciatura,301184
+150758,1992-06-06 05:00:00,Santiago,Profesional - Licenciatura,308818
+150764,1992-12-11 05:00:00,Santiago,Tecnico Universitario,238589
+150769,1954-01-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,253852
+150772,1954-02-15 05:00:00,Santiago,Especializacion - Postgrado,345914
+150774,1954-05-04 05:00:00,Santiago,Tecnico Universitario,237845
+150775,1960-01-10 05:00:00,Santiago,Profesional - Licenciatura,74463
+150778,1968-05-10 05:00:00,Santiago,Tecnico Universitario,83685
+150786,1975-03-10 05:00:00,Santiago,Tecnico Universitario,327234
+150787,1973-05-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,295430
+150789,1968-02-06 05:00:00,Santiago,Tecnico Universitario,74590
+150790,1974-10-03 05:00:00,Santiago,Tecnico Universitario,342974
+150791,1975-03-21 05:00:00,Santiago,Tecnico Universitario,172657
+150792,1978-08-23 05:00:00,Santiago,Profesional - Licenciatura,270009
+150794,1979-08-05 05:00:00,Santiago,Profesional - Licenciatura,339492
+150795,1979-04-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,83278
+150797,1979-12-31 05:00:00,Santiago,Profesional - Licenciatura,161269
+150798,1980-11-28 05:00:00,Santiago,Bachillerato - Secundaria,324015
+150799,1995-11-10 05:00:00,Santiago,Profesional - Licenciatura,197090
+150800,1987-01-10 05:00:00,Santiago,Bachillerato - Secundaria,119255
+150802,1986-10-20 05:00:00,Santiago,Profesional - Licenciatura,327221
+150803,1982-11-24 05:00:00,Santiago,Profesional - Licenciatura,200959
+150804,1987-05-18 05:00:00,Santiago,Profesional - Licenciatura,122483
+150805,1982-01-27 05:00:00,Santiago,Tecnico Universitario,185302
+150806,1987-05-26 05:00:00,Santiago,Tecnico Universitario,234139
+150807,1983-07-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,337777
+150809,1983-11-02 05:00:00,Santiago,Tecnico Universitario,166335
+150811,1983-12-23 05:00:00,Santiago,Profesional - Licenciatura,91136
+150812,1990-04-28 05:00:00,Santiago,Tecnico Universitario,147889
+150813,1990-03-06 05:00:00,Santiago,Profesional - Licenciatura,214776
+150815,1953-04-17 05:00:00,Santiago,Bachillerato - Secundaria,269511
+150816,1990-08-20 05:00:00,Santiago,Profesional - Licenciatura,72749
+150822,1989-08-06 05:00:00,Santiago,Tecnico Universitario,287576
+150823,1986-12-20 05:00:00,Santiago,Bachillerato - Secundaria,268327
+150824,1971-05-15 05:00:00,Santiago,Profesional - Licenciatura,87581
+150827,1977-06-16 05:00:00,Santiago,Tecnico Universitario,195031
+150830,1980-05-17 05:00:00,Santiago,Profesional - Licenciatura,335651
+150833,1991-07-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,277995
+150835,1991-08-07 05:00:00,Santiago,Profesional - Licenciatura,99475
+150837,1991-06-10 05:00:00,Santiago,Profesional - Licenciatura,87936
+150838,1978-09-19 05:00:00,Santiago,Profesional - Licenciatura,267762
+150840,1965-02-18 05:00:00,Santiago,Profesional - Licenciatura,295500
+150843,1992-09-17 05:00:00,Santiago,Profesional - Licenciatura,109238
+150845,1993-01-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,301186
+150849,1993-10-11 05:00:00,Santiago,Tecnico Universitario,222326
+150850,1971-11-20 05:00:00,Santiago,Tecnico Universitario,289368
+150853,1993-11-23 05:00:00,Santiago,Profesional - Licenciatura,322762
+150855,1999-10-18 05:00:00,Santiago,Bachillerato - Secundaria,74925
+150857,1980-09-22 05:00:00,Santiago,Profesional - Licenciatura,79405
+150858,1973-08-28 05:00:00,Santiago,Profesional - Licenciatura,247842
+150859,1989-11-16 05:00:00,Santiago,Profesional - Licenciatura,281245
+150860,1981-03-03 05:00:00,Santiago,Tecnico Universitario,73786
+150861,1974-01-13 05:00:00,Santiago,Bachillerato - Secundaria,188496
+150863,1976-04-13 05:00:00,Santiago,Profesional - Licenciatura,112422
+150868,1977-04-14 05:00:00,Santiago,Profesional - Licenciatura,123304
+150870,1984-07-23 05:00:00,Santiago,Especializacion - Postgrado,202452
+150871,1977-05-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,311983
+150875,1969-10-16 05:00:00,Santiago,Tecnico Universitario,297276
+150877,1969-05-26 05:00:00,Santiago,Profesional - Licenciatura,344621
+150879,1971-08-10 05:00:00,Santiago,Bachillerato - Secundaria,160445
+150883,1971-09-01 05:00:00,Santiago,Profesional - Licenciatura,70571
+150884,1987-01-27 05:00:00,Santiago,Profesional - Licenciatura,260663
+150885,1970-10-30 05:00:00,Santiago,Profesional - Licenciatura,282723
+150886,1958-07-06 05:00:00,Santiago,Tecnico Universitario,256390
+150888,1959-08-16 05:00:00,Santiago,Tecnico Universitario,251871
+150890,1977-03-21 05:00:00,Santiago,Profesional - Licenciatura,295660
+150891,1968-11-02 05:00:00,Santiago,Tecnico Universitario,112149
+150900,1966-04-15 05:00:00,Santiago,Tecnico Universitario,199870
+150902,1978-04-14 05:00:00,Santiago,Profesional - Licenciatura,116045
+150905,1974-05-05 05:00:00,Santiago,Tecnico Universitario,167824
+150906,1974-08-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,122593
+150914,1975-10-14 05:00:00,Santiago,Tecnico Universitario,193873
+150915,1975-12-07 05:00:00,Santiago,Especializacion - Postgrado,220810
+150923,1979-08-17 05:00:00,Santiago,Bachillerato - Secundaria,243187
+150924,1980-02-18 05:00:00,Santiago,Profesional - Licenciatura,276941
+150926,1980-11-13 05:00:00,Santiago,Especializacion - Postgrado,337811
+150927,1980-07-24 05:00:00,Santiago,Tecnico Universitario,284823
+150928,1980-12-20 05:00:00,Santiago,Profesional - Licenciatura,200842
+150931,1981-08-09 05:00:00,Santiago,Profesional - Licenciatura,189341
+150932,1981-08-26 05:00:00,Santiago,Profesional - Licenciatura,294363
+150937,1964-06-25 05:00:00,Temuco,Primaria,332020
+150938,1983-06-25 05:00:00,Santiago,Bachillerato - Secundaria,196368
+150939,1965-04-13 05:00:00,Concepcion,Bachillerato - Secundaria,290939
+150946,1964-09-26 05:00:00,Santiago,Bachillerato - Secundaria,233122
+150948,1970-03-06 05:00:00,Santiago,Tecnico Universitario,87080
+150951,1977-10-09 05:00:00,Santiago,Tecnico Universitario,231241
+150952,1969-11-15 05:00:00,Santiago,Bachillerato - Secundaria,100892
+150953,1986-04-10 05:00:00,Santiago,Tecnico Universitario,91208
+150954,1981-05-19 05:00:00,Santiago,Bachillerato - Secundaria,79312
+150956,1965-11-22 05:00:00,Santiago,Bachillerato - Secundaria,232407
+150959,1992-11-30 05:00:00,Santiago,Tecnico Universitario,210467
+150965,1980-03-30 05:00:00,Santiago,Profesional - Licenciatura,199305
+150969,1961-11-17 05:00:00,Santiago,Profesional - Licenciatura,244522
+150970,1976-04-09 05:00:00,Santiago,Tecnico Universitario,281372
+150974,1978-08-17 05:00:00,Santiago,Bachillerato - Secundaria,274603
+150975,1969-02-22 05:00:00,Santiago,Bachillerato - Secundaria,249328
+150980,2070-03-29 05:00:00,Santiago,Tecnico Universitario,70109
+150981,1967-02-18 05:00:00,Santiago,Bachillerato - Secundaria,117428
+150984,1968-08-30 05:00:00,Santiago,Bachillerato - Secundaria,109361
+150986,1983-08-21 05:00:00,Santiago,Tecnico Universitario,300645
+150989,1967-08-15 05:00:00,Santiago,Bachillerato - Secundaria,157040
+150990,1984-09-10 05:00:00,Santiago,Primaria,316064
+150992,1969-01-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,69076
+150994,1987-08-19 05:00:00,Santiago,Primaria,173065
+151006,1988-04-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,73957
+151008,1966-09-13 05:00:00,Santiago,Bachillerato - Secundaria,189551
+151009,1974-07-30 05:00:00,Santiago,Tecnico Universitario,238449
+151010,1988-11-18 05:00:00,Santiago,Bachillerato - Secundaria,171236
+151012,1974-10-19 05:00:00,Villa alemana,Tecnico Universitario,179343
+151014,1981-09-07 05:00:00,Santiago,Profesional - Licenciatura,148596
+151017,1972-05-18 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,214126
+151019,1962-11-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,76666
+151022,1978-07-28 05:00:00,Santiago,Bachillerato - Secundaria,235313
+151023,1965-11-12 05:00:00,Santiago,Tecnico Universitario,319872
+151024,1969-05-15 05:00:00,Santiago,Tecnico Universitario,329973
+151043,1983-03-03 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,123702
+151045,1984-03-05 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,207864
+151046,1975-02-05 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,222291
+151058,1973-12-21 05:00:00,Santiago,Tecnico Universitario,168857
+151059,1974-01-13 05:00:00,Santiago,Tecnico Universitario,140995
+151064,1975-11-08 05:00:00,Santiago,Bachillerato - Secundaria,84256
+151071,1977-06-15 05:00:00,Santiago,Profesional - Licenciatura,108858
+151075,1977-03-12 05:00:00,Santiago,Tecnico Universitario,152240
+151078,1981-07-22 05:00:00,Santiago,Profesional - Licenciatura,314154
+151080,1981-10-10 05:00:00,Santiago,Tecnico Universitario,185722
+151081,1978-04-18 05:00:00,Santiago,Profesional - Licenciatura,120075
+151088,1973-08-22 05:00:00,Santiago,Bachillerato - Secundaria,264995
+151091,1976-10-14 05:00:00,Santiago,Profesional - Licenciatura,249523
+151101,1983-10-31 05:00:00,Santiago,Especializacion - Postgrado,177800
+151104,1971-03-31 05:00:00,Santiago,Maestria,317042
+151116,1957-12-29 05:00:00,Santiago,Tecnico Universitario,249249
+151118,1961-09-23 05:00:00,Santiago,Profesional - Licenciatura,122958
+151122,1965-07-13 05:00:00,Santiago,Tecnico Universitario,68959
+151123,1961-04-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,205879
+151125,1960-11-05 05:00:00,Santiago,Tecnico Universitario,231151
+151137,1963-11-22 05:00:00,Santiago,Tecnico Universitario,137158
+151138,1962-05-24 05:00:00,Santiago,Primaria,255483
+151145,1963-07-02 05:00:00,Santiago,Bachillerato - Secundaria,190919
+151147,1961-07-24 05:00:00,Santiago,Tecnico Universitario,263491
+151149,1962-05-03 05:00:00,Santiago,Bachillerato - Secundaria,202638
+151152,1971-01-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,129053
+151156,1967-01-29 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,290401
+151158,1969-08-16 05:00:00,Santiago,Profesional - Licenciatura,311947
+151160,1970-12-07 05:00:00,Santiago,Tecnico Universitario,108380
+151161,1970-11-27 05:00:00,Santiago,Tecnico Universitario,72553
+151163,1968-06-08 05:00:00,Santiago,Tecnico Universitario,345693
+151164,1971-12-01 05:00:00,Santiago,Especializacion - Postgrado,223505
+151165,1962-05-19 05:00:00,Santiago,Tecnico Universitario,109532
+151167,1971-12-18 05:00:00,Santiago,Tecnico Universitario,190097
+151168,1963-11-19 05:00:00,Santiago,Tecnico Universitario,284571
+151170,1978-10-27 05:00:00,Santiago,Especializacion - Postgrado,247080
+151171,1965-08-27 05:00:00,Santiago,Tecnico Universitario,256669
+151172,1964-09-17 05:00:00,Santiago,Profesional - Licenciatura,135181
+151173,1972-06-16 05:00:00,Santiago,Tecnico Universitario,315691
+151176,1977-02-07 05:00:00,Santiago,Especializacion - Postgrado,108447
+151177,1965-03-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,247404
+151178,1967-03-29 05:00:00,Santiago,Tecnico Universitario,133695
+151181,1976-09-03 05:00:00,Santiago,Profesional - Licenciatura,143505
+151183,1967-02-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,292370
+151186,1963-05-12 05:00:00,Santiago,Primaria,138079
+151187,1966-05-20 05:00:00,Santiago,Profesional - Licenciatura,292924
+151189,1963-05-13 05:00:00,Santiago,Bachillerato - Secundaria,125554
+151190,2021-03-25 05:00:00,Santiago,Profesional - Licenciatura,196530
+151191,1971-05-11 05:00:00,Santiago,Tecnico Universitario,158224
+151194,1973-02-20 05:00:00,Santiago,Profesional - Licenciatura,140781
+151195,1966-10-31 05:00:00,Santiago,Profesional - Licenciatura,251932
+151197,1973-06-15 05:00:00,Santiago,Profesional - Licenciatura,255312
+151198,1964-09-21 05:00:00,Santiago,Tecnico Universitario,114731
+151201,1973-07-09 05:00:00,Santiago,Tecnico Universitario,196898
+151204,1981-08-31 05:00:00,Santiago,Profesional - Licenciatura,186280
+151205,1974-10-17 05:00:00,Santiago,Profesional - Licenciatura,291924
+151206,1968-05-22 05:00:00,Santiago,Tecnico Universitario,163683
+151207,1974-04-01 05:00:00,Santiago,Profesional - Licenciatura,258746
+151209,1974-08-18 05:00:00,Santiago,Especializacion - Postgrado,172080
+151210,1974-09-28 05:00:00,Chillan,Profesional - Licenciatura,201201
+151211,1975-05-17 05:00:00,Santiago,Profesional - Licenciatura,248081
+151212,1996-02-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,261592
+151213,2021-08-27 05:00:00,Santiago,Tecnico Universitario,84671
+151215,1988-12-30 05:00:00,Santiago,Tecnico Universitario,83948
+151217,1993-04-27 05:00:00,Santiago,Especializacion - Postgrado,222545
+151218,1986-04-18 05:00:00,Santiago,Profesional - Licenciatura,249548
+151219,1987-06-28 05:00:00,Santiago,Bachillerato - Secundaria,283079
+151222,1975-07-25 05:00:00,Santiago,Profesional - Licenciatura,294815
+151224,1975-04-26 05:00:00,Santiago,Profesional - Licenciatura,192835
+151225,1992-02-27 05:00:00,Santiago,Profesional - Licenciatura,204766
+151227,1993-03-08 05:00:00,Santiago,Profesional - Licenciatura,79406
+151228,1976-01-26 05:00:00,Santiago,Tecnico Universitario,176068
+151234,1976-06-27 05:00:00,Santiago,Especializacion - Postgrado,244221
+151235,1980-08-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,225680
+151236,1976-07-11 05:00:00,Santiago,Profesional - Licenciatura,200490
+151237,1984-05-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,319421
+151238,1977-02-23 05:00:00,Santiago,Profesional - Licenciatura,240577
+151239,1995-11-21 05:00:00,Santiago,Profesional - Licenciatura,320833
+151240,1977-08-14 05:00:00,Santiago,Tecnico Universitario,222041
+151242,1977-11-29 05:00:00,Santiago,Maestria,247040
+151249,1980-09-22 05:00:00,Santiago,Tecnico Universitario,299382
+151250,1978-08-28 05:00:00,Santiago,Maestria,161064
+151252,1978-02-21 05:00:00,Santiago,Profesional - Licenciatura,75112
+151253,1978-03-21 05:00:00,Santiago,Profesional - Licenciatura,146918
+151258,1979-12-21 05:00:00,Santiago,Profesional - Licenciatura,119466
+151263,1979-10-26 05:00:00,Santiago,Especializacion - Postgrado,90388
+151264,1985-06-03 05:00:00,Talca,Tecnico Universitario,317017
+151268,1989-03-24 05:00:00,Santiago,Tecnico Universitario,198037
+151269,1992-01-03 05:00:00,Santiago,Primaria,249678
+151270,1980-11-01 05:00:00,Santiago,Bachillerato - Secundaria,273933
+151276,1980-08-09 05:00:00,Santiago,Maestria,134489
+151282,1979-11-23 05:00:00,Santiago,Profesional - Licenciatura,201819
+151283,1979-10-22 05:00:00,Santiago,Profesional - Licenciatura,117574
+151286,1983-05-26 05:00:00,Santiago,Profesional - Licenciatura,163761
+151287,1968-04-15 05:00:00,Santiago,Especializacion - Postgrado,212816
+151289,1985-09-24 05:00:00,Santiago,Profesional - Licenciatura,98266
+151291,1980-11-07 05:00:00,Santiago,Profesional - Licenciatura,181963
+151294,1971-05-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,106290
+151295,1983-04-16 05:00:00,Santiago,Profesional - Licenciatura,217574
+151298,1982-03-31 05:00:00,Santiago,Tecnico Universitario,334648
+151303,1981-01-08 05:00:00,Santiago,Profesional - Licenciatura,338760
+151307,1984-10-03 05:00:00,Santiago,Maestria,154894
+151308,1984-02-29 05:00:00,Santiago,Tecnico Universitario,330486
+151312,1981-08-14 05:00:00,Santiago,Profesional - Licenciatura,93386
+151313,1985-08-05 05:00:00,Santiago,Especializacion - Postgrado,307311
+151315,1981-04-11 05:00:00,Santiago,Profesional - Licenciatura,335979
+151317,1975-02-15 05:00:00,Santiago,Tecnico Universitario,132438
+151318,1977-04-19 05:00:00,Santiago,Profesional - Licenciatura,114887
+151320,1975-12-10 05:00:00,Iquique,Maestria,287877
+151321,1985-12-02 05:00:00,Santiago,Profesional - Licenciatura,241811
+151323,1986-02-28 05:00:00,Santiago,Profesional - Licenciatura,278437
+151327,1987-03-18 05:00:00,Viña del Mar,Especializacion - Postgrado,86169
+151328,1982-06-06 05:00:00,Calama,Profesional - Licenciatura,318132
+151329,1985-11-26 05:00:00,Santiago,Profesional - Licenciatura,252405
+151330,1983-01-04 05:00:00,Santiago,Profesional - Licenciatura,317250
+151333,1986-01-13 05:00:00,Santiago,Especializacion - Postgrado,306662
+151335,1986-08-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,212158
+151336,1981-12-18 05:00:00,Santiago,Especializacion - Postgrado,159989
+151338,1983-07-14 05:00:00,Santiago,Profesional - Licenciatura,173836
+151339,1986-12-20 05:00:00,Santiago,Profesional - Licenciatura,294370
+151340,1982-01-28 05:00:00,Santiago,Profesional - Licenciatura,217999
+151341,1986-07-19 05:00:00,Santiago,Profesional - Licenciatura,294324
+151343,1987-03-25 05:00:00,Santiago,Profesional - Licenciatura,213209
+151344,1987-06-25 05:00:00,Santiago,Especializacion - Postgrado,279891
+151345,1974-09-13 05:00:00,Santiago,Tecnico Universitario,221719
+151347,1983-04-03 05:00:00,Santiago,Profesional - Licenciatura,89053
+151348,1982-06-26 05:00:00,Santiago,Tecnico Universitario,85273
+151352,1983-06-27 05:00:00,Santiago,Profesional - Licenciatura,87238
+151353,1984-05-27 05:00:00,Santiago,Profesional - Licenciatura,312427
+151354,1985-11-25 05:00:00,Santiago,Tecnico Universitario,142521
+151355,1988-07-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,336684
+151356,1989-08-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,214012
+151357,1993-03-16 05:00:00,Santiago,Profesional - Licenciatura,196348
+151358,1970-05-23 05:00:00,Santiago,Tecnico Universitario,230421
+151360,1977-04-16 05:00:00,Santiago,Profesional - Licenciatura,193489
+151362,1989-10-04 05:00:00,Santiago,Profesional - Licenciatura,187137
+151364,1991-12-16 05:00:00,Santiago,Profesional - Licenciatura,338607
+151367,1985-12-04 05:00:00,Santiago,Tecnico Universitario,199153
+151370,1988-11-25 05:00:00,Santiago,Profesional - Licenciatura,313924
+151371,1997-09-01 05:00:00,Santiago,Tecnico Universitario,255565
+151372,1987-06-26 05:00:00,Santiago,Profesional - Licenciatura,112051
+151373,1991-01-11 05:00:00,Santiago,Profesional - Licenciatura,176658
+151377,1988-05-02 05:00:00,Santiago,Profesional - Licenciatura,109316
+151378,1992-07-15 05:00:00,Santiago,Profesional - Licenciatura,120017
+151379,1989-02-23 05:00:00,Santiago,Profesional - Licenciatura,284154
+151381,1994-05-18 05:00:00,Santiago,Profesional - Licenciatura,281576
+151382,1987-12-15 05:00:00,Santiago,Profesional - Licenciatura,117156
+151384,1991-05-27 05:00:00,Santiago,Profesional - Licenciatura,331313
+151385,1994-07-31 05:00:00,Santiago,Profesional - Licenciatura,332030
+151386,1983-04-19 05:00:00,Santiago,Profesional - Licenciatura,87823
+151387,1989-08-20 05:00:00,Santiago,Especializacion - Postgrado,275013
+151389,1989-10-27 05:00:00,Santiago,Especializacion - Postgrado,79355
+151391,1973-10-06 05:00:00,Santiago,Tecnico Universitario,123262
+151396,1973-06-17 05:00:00,Santiago,Tecnico Universitario,162805
+151397,1076-10-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,106688
+151410,1997-01-26 05:00:00,Santiago,Profesional - Licenciatura,324710
+151412,1994-08-27 05:00:00,San Antonio,Tecnico Universitario,215274
+151415,1974-07-05 05:00:00,Santiago,Profesional - Licenciatura,281081
+151423,1972-06-29 05:00:00,Santiago,Tecnico Universitario,107639
+151424,1972-09-28 05:00:00,Santiago,Tecnico Universitario,117566
+151426,1973-10-30 05:00:00,Santiago,Profesional - Licenciatura,112528
+151428,1973-10-23 05:00:00,Santiago,Tecnico Universitario,156712
+151438,1974-11-26 05:00:00,Santiago,Bachillerato - Secundaria,216279
+151446,1982-12-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,152875
+151450,1976-07-31 05:00:00,Santiago,Profesional - Licenciatura,189710
+151452,1983-05-26 05:00:00,Santiago,Profesional - Licenciatura,307734
+151453,1972-02-01 05:00:00,Santiago,Tecnico Universitario,162784
+151455,1966-03-17 05:00:00,Santiago,Profesional - Licenciatura,170343
+151459,2972-11-19 05:00:00,Santiago,Bachillerato - Secundaria,346342
+151460,1966-08-07 05:00:00,Santiago,Bachillerato - Secundaria,327160
+151462,1972-10-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,323224
+151463,1964-12-30 05:00:00,Santiago,Bachillerato - Secundaria,220195
+151464,1975-09-11 05:00:00,Santiago,Especializacion - Postgrado,232517
+151465,1991-12-30 05:00:00,Santiago,Profesional - Licenciatura,247367
+151466,1976-09-05 05:00:00,Santiago,Profesional - Licenciatura,118710
+151467,1967-08-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,77052
+151468,1981-03-03 05:00:00,Santiago,Profesional - Licenciatura,146993
+151469,1983-02-04 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,75921
+151473,1972-08-12 05:00:00,Santiago,Tecnico Universitario,164602
+151474,1966-08-11 05:00:00,Santiago,Tecnico Universitario,235683
+151475,1980-04-04 05:00:00,Santiago,Tecnico Universitario,104909
+151477,1965-08-12 05:00:00,Santiago,Profesional - Licenciatura,150687
+151483,1976-09-21 05:00:00,Santiago,Bachillerato - Secundaria,345965
+151484,1974-11-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,194906
+151486,1973-09-26 05:00:00,Santiago,Profesional - Licenciatura,244618
+151488,1966-10-31 05:00:00,Santiago,Profesional - Licenciatura,186337
+151489,1983-06-09 05:00:00,Temuco,Tecnico Universitario,336313
+151490,1989-06-25 05:00:00,Santiago,Profesional - Licenciatura,210359
+151495,1978-09-21 05:00:00,Santiago,Profesional - Licenciatura,268538
+151497,1977-12-23 05:00:00,Santiago,Tecnico Universitario,91505
+151499,1978-01-01 05:00:00,Concepcion,Profesional - Licenciatura,342897
+151500,1979-10-30 05:00:00,Santiago,Bachillerato - Secundaria,349554
+151503,1979-05-11 05:00:00,Santiago,Tecnico Universitario,186368
+151505,1979-07-26 05:00:00,Santiago,Especializacion - Postgrado,144293
+151508,1979-02-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,89312
+151513,2079-03-12 05:00:00,Santiago,Tecnico Universitario,144914
+151515,1987-11-26 05:00:00,Santiago,Profesional - Licenciatura,244883
+151516,1987-07-07 05:00:00,Santiago,Profesional - Licenciatura,317383
+151517,1987-12-01 05:00:00,Santiago,Profesional - Licenciatura,276406
+151523,1989-04-17 05:00:00,Santiago,Especializacion - Postgrado,267901
+151524,1989-09-04 05:00:00,Santiago,Especializacion - Postgrado,264660
+151525,1989-03-24 05:00:00,Santiago,Profesional - Licenciatura,134943
+151526,1990-07-16 05:00:00,Santiago,Profesional - Licenciatura,70349
+151530,1990-01-25 05:00:00,Santiago,Tecnico Universitario,183358
+151543,1983-12-10 05:00:00,Santiago,Profesional - Licenciatura,224795
+151547,1960-10-05 05:00:00,Santiago,Bachillerato - Secundaria,187884
+151550,1974-03-18 05:00:00,Santiago,Tecnico Universitario,119070
+151556,1984-12-11 05:00:00,Santiago,Bachillerato - Secundaria,253477
+151560,1975-05-03 05:00:00,Santiago,Bachillerato - Secundaria,213810
+151563,1977-05-15 05:00:00,Santiago,Tecnico Universitario,96845
+151572,1978-10-14 05:00:00,Valparaiso,Profesional - Licenciatura,253755
+151573,1981-10-15 05:00:00,Santiago,Profesional - Licenciatura,178409
+151575,1990-10-04 05:00:00,Santiago,Profesional - Licenciatura,348560
+151577,1985-08-16 05:00:00,Santiago,Profesional - Licenciatura,175210
+151580,1988-01-29 05:00:00,Santiago,Profesional - Licenciatura,119744
+151581,1988-06-15 05:00:00,Santiago,Profesional - Licenciatura,104973
+151582,1989-01-24 05:00:00,Santiago,Profesional - Licenciatura,187275
+151583,1991-02-24 05:00:00,Santiago,Profesional - Licenciatura,233438
+151584,1990-04-11 05:00:00,Santiago,Especializacion - Postgrado,231890
+151586,1991-05-24 05:00:00,Copiapo,Profesional - Licenciatura,179067
+151588,1975-10-26 05:00:00,Santiago,Tecnico Universitario,94446
+151594,2021-06-11 05:00:00,Santiago,Tecnico Universitario,329385
+151597,1979-09-14 05:00:00,Santiago,Profesional - Licenciatura,216169
+151600,1976-10-10 05:00:00,Santiago,Tecnico Universitario,277360
+151605,1980-09-20 05:00:00,Santiago,Profesional - Licenciatura,297600
+151608,1988-10-10 05:00:00,Santiago,Profesional - Licenciatura,141499
+151611,1991-12-10 05:00:00,Santiago,Especializacion - Postgrado,140128
+151612,1985-03-02 05:00:00,Santiago,Profesional - Licenciatura,128974
+151613,1986-04-12 05:00:00,Santiago,Especializacion - Postgrado,73731
+151615,1975-11-07 05:00:00,Santiago,Tecnico Universitario,298396
+151622,1975-06-14 05:00:00,Santiago,Bachillerato - Secundaria,202003
+151623,1967-07-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,251587
+151627,2021-03-05 05:00:00,Santiago,Bachillerato - Secundaria,194698
+151630,1978-07-18 05:00:00,Santiago,Profesional - Licenciatura,74768
+151631,1970-08-30 05:00:00,Santiago,Tecnico Universitario,215983
+151635,1986-11-04 05:00:00,Santiago,Maestria,92635
+151639,1968-12-16 05:00:00,Santiago,Profesional - Licenciatura,303675
+151640,1975-01-16 05:00:00,Santiago,Profesional - Licenciatura,157324
+151642,1994-10-02 05:00:00,Santiago,Profesional - Licenciatura,244680
+151643,1998-10-08 05:00:00,Santiago,Tecnico Universitario,103738
+151644,1983-12-10 05:00:00,Santiago,Tecnico Universitario,257168
+151645,1990-04-01 05:00:00,Santiago,Bachillerato - Secundaria,315909
+151649,1972-06-08 05:00:00,Santiago,Tecnico Universitario,145240
+151650,1990-06-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,104713
+151651,1978-10-27 05:00:00,Santiago,Profesional - Licenciatura,312584
+151653,1968-12-31 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,134773
+151654,1980-04-23 05:00:00,Santiago,Tecnico Universitario,238109
+151656,1985-11-03 05:00:00,Santiago,Profesional - Licenciatura,192208
+151657,1962-10-22 05:00:00,Santiago,Tecnico Universitario,277858
+151659,1079-09-11 05:00:00,Santiago,Tecnico Universitario,305202
+151660,1979-03-01 05:00:00,Santiago,Bachillerato - Secundaria,118158
+151661,1967-11-22 05:00:00,Santiago,Tecnico Universitario,323615
+151662,1979-11-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,293812
+151663,1981-10-17 05:00:00,Santiago,Profesional - Licenciatura,199234
+151665,1989-05-04 05:00:00,Santiago,Profesional - Licenciatura,102285
+151666,1991-08-24 05:00:00,Santiago,Tecnico Universitario,246921
+151691,1982-06-22 05:00:00,Santiago,Primaria,304117
+151717,1973-04-12 05:00:00,Santiago,Tecnico Universitario,221029
+151720,1980-03-14 05:00:00,Santiago,Profesional - Licenciatura,115303
+151732,1987-01-26 05:00:00,Santiago,Profesional - Licenciatura,196844
+151739,1975-08-25 05:00:00,Santiago,Profesional - Licenciatura,85126
+151746,1974-10-11 05:00:00,Santiago,Tecnico Universitario,68323
+151752,1983-06-14 05:00:00,Santiago,Profesional - Licenciatura,142721
+151756,1993-02-23 05:00:00,Santiago,Maestria,248539
+151757,1992-12-27 05:00:00,Santiago,Profesional - Licenciatura,217875
+151759,1993-11-04 05:00:00,Santiago,Profesional - Licenciatura,98574
+151762,1993-10-20 05:00:00,Santiago,Profesional - Licenciatura,348728
+151764,1994-12-04 05:00:00,Santiago,Profesional - Licenciatura,216009
+151765,1995-08-12 05:00:00,Santiago,Especializacion - Postgrado,278960
+151766,1995-10-05 05:00:00,Santiago,Profesional - Licenciatura,219826
+151768,1996-12-06 05:00:00,Santiago,Profesional - Licenciatura,171481
+151769,1958-06-15 05:00:00,Santiago,Especializacion - Postgrado,229257
+151771,1981-04-10 05:00:00,Santiago,Especializacion - Postgrado,326188
+151772,1984-11-12 05:00:00,Santiago,Profesional - Licenciatura,327594
+151779,1953-08-26 05:00:00,Santiago,Especializacion - Postgrado,75157
+151780,1955-09-11 05:00:00,Viña del Mar,Especializacion - Postgrado,135434
+151783,1958-07-31 05:00:00,Santiago,Profesional - Licenciatura,265336
+151786,1956-11-05 05:00:00,Santiago,Profesional - Licenciatura,219570
+151788,1973-07-10 05:00:00,Santiago,Maestria,345589
+151789,1972-09-05 05:00:00,Santiago,Profesional - Licenciatura,289283
+151790,1975-10-16 05:00:00,Santiago,Profesional - Licenciatura,219744
+151796,1977-02-12 05:00:00,Santiago,Profesional - Licenciatura,88016
+151800,1965-03-15 05:00:00,Santiago,Especializacion - Postgrado,340212
+151803,1968-04-26 05:00:00,Santiago,Tecnico Universitario,288366
+151808,1968-08-16 05:00:00,Santiago,Tecnico Universitario,291083
+151811,1967-11-13 05:00:00,Santiago,Profesional - Licenciatura,115016
+151814,1977-02-25 05:00:00,Santiago,Tecnico Universitario,118178
+151815,1969-10-25 05:00:00,Santiago,Tecnico Universitario,174577
+151816,1976-07-28 05:00:00,Santiago,Profesional - Licenciatura,316772
+151818,1967-02-21 05:00:00,Santiago,Tecnico Universitario,337669
+151825,1970-02-27 05:00:00,Santiago,Tecnico Universitario,274058
+151828,1969-12-08 05:00:00,Temuco,Profesional - Licenciatura,290260
+151831,1970-08-09 05:00:00,Santiago,Tecnico Universitario,104267
+151834,1975-11-12 05:00:00,Santiago,Tecnico Universitario,330094
+151835,1975-01-17 05:00:00,Santiago,Bachillerato - Secundaria,339055
+151836,1974-11-18 05:00:00,Santiago,Tecnico Universitario,186603
+151837,1975-06-29 05:00:00,Santiago,Maestria,247748
+151838,1975-01-09 05:00:00,Santiago,Tecnico Universitario,319056
+151839,1975-04-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,79452
+151847,1975-12-29 05:00:00,Santiago,Bachillerato - Secundaria,103244
+151853,1977-01-03 05:00:00,Santiago,Bachillerato - Secundaria,104330
+151859,1977-02-15 05:00:00,Santiago,Tecnico Universitario,145591
+151860,1977-12-21 05:00:00,Santiago,Tecnico Universitario,277233
+151862,1980-01-08 05:00:00,Santiago,Primaria,195686
+151867,1979-12-30 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,251671
+151869,1980-05-30 05:00:00,Santiago,Profesional - Licenciatura,78143
+151871,1980-10-25 05:00:00,Santiago,Bachillerato - Secundaria,255733
+151873,1981-04-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,172658
+151875,1981-09-16 05:00:00,Santiago,Profesional - Licenciatura,337856
+151878,1981-09-05 05:00:00,Santiago,Tecnico Universitario,298680
+151884,1981-04-29 05:00:00,Santiago,Tecnico Universitario,280915
+151885,1980-12-25 05:00:00,Santiago,Bachillerato - Secundaria,214173
+151887,1981-12-16 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,143701
+151891,1994-04-15 05:00:00,Santiago,Profesional - Licenciatura,97540
+151893,1980-12-08 05:00:00,Santiago,Profesional - Licenciatura,85842
+151895,1953-02-19 05:00:00,Santiago,Profesional - Licenciatura,146594
+151898,1960-05-28 05:00:00,Santiago,Tecnico Universitario,327515
+151909,1975-08-13 05:00:00,Santiago,Tecnico Universitario,73457
+151910,1964-12-07 05:00:00,Santiago,Primaria,346423
+151911,1973-10-30 05:00:00,Santiago,Profesional - Licenciatura,266969
+151915,1976-04-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,79460
+151916,1968-12-31 05:00:00,Santiago,Profesional - Licenciatura,217130
+151918,1975-09-10 05:00:00,Santiago,Tecnico Universitario,292017
+151919,1968-04-06 05:00:00,Santiago,Tecnico Universitario,169269
+151920,1972-08-20 05:00:00,Santiago,Profesional - Licenciatura,165247
+151927,1997-09-09 05:00:00,Santiago,Tecnico Universitario,129564
+151928,1976-08-04 05:00:00,Santiago,Profesional - Licenciatura,188272
+151929,1961-07-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,200050
+151930,1976-03-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,348983
+151932,1977-06-03 05:00:00,Santiago,Profesional - Licenciatura,112019
+151935,1977-03-15 05:00:00,Santiago,Profesional - Licenciatura,337770
+151937,1977-04-02 05:00:00,Santiago,Profesional - Licenciatura,301932
+151939,1981-12-17 05:00:00,Santiago,Primaria,229721
+151941,1974-09-21 05:00:00,Santiago,Profesional - Licenciatura,83226
+151944,1991-04-21 05:00:00,Santiago,Tecnico Universitario,335069
+151946,1978-02-13 05:00:00,Santiago,Profesional - Licenciatura,234695
+151949,1980-04-02 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,326837
+151950,1985-06-29 05:00:00,Santiago,Bachillerato - Secundaria,156112
+151951,1986-06-16 05:00:00,Santiago,Tecnico Universitario,324079
+151953,1979-09-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,253658
+151962,1972-04-28 05:00:00,Santiago,Primaria,276852
+151964,1960-07-21 05:00:00,Santiago,Tecnico Universitario,166241
+151966,1985-09-02 05:00:00,Santiago,Profesional - Licenciatura,198691
+151968,1972-09-19 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,139168
+151977,1982-07-17 05:00:00,Santiago,Profesional - Licenciatura,96179
+151981,1986-02-19 05:00:00,Santiago,Bachillerato - Secundaria,178399
+151982,1965-04-09 05:00:00,Santiago,Bachillerato - Secundaria,132433
+151983,1974-04-02 05:00:00,Santiago,Tecnico Universitario,81828
+151984,1968-06-15 05:00:00,Santiago,Tecnico Universitario,191980
+151985,1987-02-05 05:00:00,Santiago,Especializacion - Postgrado,92407
+151987,1967-09-23 05:00:00,Santiago,Tecnico Universitario,136557
+151989,1987-06-27 05:00:00,Santiago,Tecnico Universitario,202582
+151993,1972-01-08 05:00:00,Santiago,Tecnico Universitario,105364
+152001,1990-08-10 05:00:00,Santiago,Tecnico Universitario,86608
+152008,1978-02-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,254909
+152011,1977-05-09 05:00:00,Santiago,Tecnico Universitario,258565
+152014,1994-05-14 05:00:00,Santiago,Bachillerato - Secundaria,73452
+152015,1972-06-26 05:00:00,Santiago,Profesional - Licenciatura,269200
+152019,1978-05-20 05:00:00,Santiago,Bachillerato - Secundaria,216147
+152020,1979-05-25 05:00:00,Santiago,Tecnico Universitario,326349
+152021,1987-12-10 05:00:00,Concepcion,Profesional - Licenciatura,273503
+152023,1974-06-20 05:00:00,Santiago,Bachillerato - Secundaria,106304
+152025,1987-07-13 05:00:00,Santiago,Profesional - Licenciatura,285351
+152029,1976-05-17 05:00:00,Santiago,Tecnico Universitario,341037
+152034,1988-02-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,231890
+152039,1988-12-05 05:00:00,Santiago,Tecnico Universitario,215736
+152040,1982-04-27 05:00:00,Santiago,Tecnico Universitario,69516
+152047,2021-04-07 05:00:00,Santiago,Tecnico Universitario,219041
+152056,1982-06-08 05:00:00,Concepcion,Tecnico Universitario,333993
+152057,1982-08-28 05:00:00,Santiago,Tecnico Universitario,240112
+152058,1983-02-11 05:00:00,Santiago,Tecnico Universitario,169884
+152060,1989-05-27 05:00:00,Santiago,Profesional - Licenciatura,339815
+152063,1983-04-15 05:00:00,Santiago,Tecnico Universitario,317384
+152065,1983-12-22 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,291766
+152066,1991-09-02 05:00:00,Santiago,Primaria,321519
+152069,1984-06-01 05:00:00,Santiago,Tecnico Universitario,330997
+152075,1992-07-22 05:00:00,Santiago,Tecnico Universitario,178062
+152076,1984-09-25 05:00:00,Santiago,Tecnico Universitario,184024
+152077,1992-08-23 05:00:00,Santiago,Profesional - Licenciatura,298601
+152078,1986-02-06 05:00:00,Santiago,Tecnico Universitario,71073
+152079,1993-07-26 05:00:00,Santiago,Profesional - Licenciatura,194473
+152081,1993-12-31 05:00:00,Curico,Tecnico Universitario,75049
+152082,1994-10-26 05:00:00,Temuco,Profesional - Licenciatura,264155
+152083,1995-01-13 05:00:00,Calama,Tecnico Universitario,101019
+152088,1980-03-22 05:00:00,Santiago,Tecnico Universitario,123330
+152089,1986-11-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,182621
+152091,1987-07-26 05:00:00,Santiago,Profesional - Licenciatura,131107
+152092,1990-09-19 05:00:00,Santiago,Profesional - Licenciatura,241508
+152095,1988-09-23 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,279636
+152098,1990-08-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,122857
+152107,1990-04-04 05:00:00,Santiago,Tecnico Universitario,128578
+152108,1982-05-04 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,299903
+152109,1984-01-14 05:00:00,Santiago,Profesional - Licenciatura,137994
+152110,1993-11-15 05:00:00,Santiago,Profesional - Licenciatura,300060
+152112,1993-11-25 05:00:00,Santiago,Tecnico Universitario,138888
+152113,1988-01-22 05:00:00,Santiago,Tecnico Universitario,131985
+152117,1994-10-18 05:00:00,Santiago,Profesional - Licenciatura,164221
+152118,1970-03-23 05:00:00,Santiago,Profesional - Licenciatura,230806
+152119,1983-08-05 05:00:00,Santiago,Bachillerato - Secundaria,335603
+152123,1976-11-09 05:00:00,Santiago,Tecnico Universitario,248222
+152125,1994-04-01 05:00:00,Santiago,Bachillerato - Secundaria,213429
+152129,1992-05-20 05:00:00,Santiago,Profesional - Licenciatura,300673
+152130,1978-07-16 05:00:00,Santiago,Tecnico Universitario,173619
+152133,1988-06-30 05:00:00,Santiago,Tecnico Universitario,341754
+152134,1980-03-14 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,150687
+152139,1983-09-23 05:00:00,Santiago,Profesional - Licenciatura,83770
+152140,1992-02-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,102657
+152143,1979-03-13 05:00:00,Santiago,Profesional - Licenciatura,266065
+152144,1991-01-31 05:00:00,Santiago,Profesional - Licenciatura,273797
+152145,1993-11-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,90662
+152146,1988-09-24 05:00:00,Santiago,Profesional - Licenciatura,243023
+152147,1995-08-04 05:00:00,Santiago,Profesional - Licenciatura,182045
+152148,1992-09-26 05:00:00,Santiago,Profesional - Licenciatura,133093
+152149,1998-03-13 05:00:00,Santiago,Profesional - Licenciatura,219522
+152150,1996-07-30 05:00:00,Santiago,Profesional - Licenciatura,324472
+152151,1967-06-03 05:00:00,Santiago,Tecnico Universitario,249888
+152153,1969-06-14 05:00:00,Santiago,Tecnico Universitario,321408
+152155,1973-03-17 05:00:00,Santiago,Primaria,283762
+152157,1986-07-24 05:00:00,Santiago,Tecnico Universitario,194885
+152160,1970-10-28 05:00:00,Santiago,Bachillerato - Secundaria,239000
+152166,1996-08-09 05:00:00,Santiago,Tecnico Universitario,319418
+152167,1983-03-04 05:00:00,Santiago,Tecnico Universitario,151193
+152168,1988-06-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,176337
+152175,1980-10-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,345304
+152177,1974-03-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,189684
+152181,1989-01-19 05:00:00,Santiago,Profesional - Licenciatura,112456
+152199,1988-10-27 05:00:00,Santiago,Primaria,262222
+152207,1973-09-12 05:00:00,Viña del Mar,Primaria,146484
+152212,1984-06-10 05:00:00,Santiago,Bachillerato - Secundaria,100879
+152213,1981-11-30 05:00:00,Santiago,Bachillerato - Secundaria,188405
+152237,1986-03-23 05:00:00,Santiago,Tecnico Universitario,318460
+152239,1984-07-10 05:00:00,Valparaiso,Bachillerato - Secundaria,109781
+152250,1984-11-28 05:00:00,Copiapo,Tecnico - Preparatoria - T. Profesional,304546
+152253,1970-03-05 05:00:00,Santiago,Bachillerato - Secundaria,148617
+152255,1983-01-20 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,151497
+152256,1974-08-01 05:00:00,Santiago,Tecnico Universitario,253886
+152259,1993-03-17 05:00:00,Santiago,Profesional - Licenciatura,241588
+152315,1989-09-29 05:00:00,Santiago,Profesional - Licenciatura,229165
+152918,1989-12-27 05:00:00,Santiago,Profesional - Licenciatura,273754
+152919,1982-11-13 05:00:00,Santiago,Tecnico Universitario,204159
+152920,1978-12-02 05:00:00,Santiago,Bachillerato - Secundaria,69657
+152921,1991-08-17 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,165716
+152924,1991-07-05 05:00:00,Santiago,Profesional - Licenciatura,99101
+152925,1987-08-06 05:00:00,Santiago,Profesional - Licenciatura,126114
+152926,1988-09-26 05:00:00,Santiago,Bachillerato - Secundaria,74416
+152927,1993-01-19 05:00:00,Santiago,Profesional - Licenciatura,232583
+152929,1990-06-07 05:00:00,Santiago,Profesional - Licenciatura,90727
+152930,1995-09-28 05:00:00,Santiago,Tecnico Universitario,271359
+159020,1984-06-13 05:00:00,Santiago,Tecnico Universitario,287252
+159021,1990-01-15 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,277068
+159022,1986-11-29 05:00:00,Santiago,Profesional - Licenciatura,173628
+159023,1982-07-28 05:00:00,Santiago,Profesional - Licenciatura,81598
+159028,1988-04-08 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,303816
+159029,1981-04-01 05:00:00,Santiago,Bachillerato - Secundaria,107200
+159031,1973-06-04 05:00:00,Santiago,Tecnico Universitario,157828
+159041,1992-11-09 05:00:00,Santiago,Profesional - Licenciatura,335657
+159048,1968-05-14 05:00:00,Santiago,Bachillerato - Secundaria,257846
+159049,1969-10-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,218738
+159055,1972-03-15 05:00:00,Santiago,Tecnico Universitario,264984
+159062,1971-07-17 05:00:00,Santiago,Tecnico Universitario,76701
+159074,1967-07-15 05:00:00,Santiago,Tecnico Universitario,333985
+159093,1989-06-26 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,148647
+159095,1977-01-05 05:00:00,Santiago,Tecnico Universitario,128745
+159101,1988-12-18 05:00:00,Santiago,Primaria,178912
+159104,1966-10-24 05:00:00,Santiago,Profesional - Licenciatura,336296
+159112,1984-11-04 05:00:00,Santiago,Tecnico Universitario,194875
+159119,1970-06-05 05:00:00,Santiago,Tecnico Universitario,345000
+159979,1979-11-12 05:00:00,Santiago,Profesional - Licenciatura,68930
+159982,1988-01-28 05:00:00,Santiago,Profesional - Licenciatura,349947
+159984,1989-03-22 05:00:00,Santiago,Profesional - Licenciatura,90048
+159987,1987-11-13 05:00:00,Santiago,Tecnico Universitario,196662
+159989,1991-08-08 05:00:00,Santiago,Profesional - Licenciatura,144140
+159994,1980-05-23 05:00:00,Concepcion,Tecnico - Preparatoria - T. Profesional,110206
+159996,1990-03-28 05:00:00,Santiago,Profesional - Licenciatura,265709
+159999,1984-12-16 05:00:00,Santiago,Profesional - Licenciatura,283557
+160000,1994-11-07 05:00:00,Santiago,Profesional - Licenciatura,132926
+160003,1986-05-06 05:00:00,Santiago,Especializacion - Postgrado,181546
+160004,1992-11-27 05:00:00,Santiago,Profesional - Licenciatura,101354
+160007,1995-06-30 05:00:00,Santiago,Especializacion - Postgrado,125259
+160014,1980-03-21 05:00:00,Santiago,Profesional - Licenciatura,205376
+160015,1995-08-15 05:00:00,Santiago,Maestria,206087
+160016,1989-12-01 05:00:00,Santiago,Profesional - Licenciatura,346026
+160017,1981-10-04 05:00:00,Santiago,Profesional - Licenciatura,80725
+160019,1990-12-22 05:00:00,Santiago,Tecnico Universitario,75487
+160020,1981-04-21 05:00:00,Santiago,Maestria,173178
+160021,1978-10-08 05:00:00,Santiago,Profesional - Licenciatura,108476
+160024,1978-01-31 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,74194
+160026,1976-12-11 05:00:00,Santiago,Profesional - Licenciatura,85206
+160029,1985-08-13 05:00:00,Santiago,Especializacion - Postgrado,202476
+160037,1989-11-08 05:00:00,Santiago,Profesional - Licenciatura,192153
+160039,1994-06-06 05:00:00,Santiago,Profesional - Licenciatura,345103
+160040,1989-08-28 05:00:00,Santiago,Profesional - Licenciatura,92141
+160042,1980-03-05 05:00:00,Santiago,Profesional - Licenciatura,251305
+160047,1973-07-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,273210
+160048,1974-11-14 05:00:00,Santiago,Profesional - Licenciatura,215675
+160050,1985-03-08 05:00:00,Santiago,Profesional - Licenciatura,91690
+160052,1995-04-26 05:00:00,Santiago,Profesional - Licenciatura,170332
+160054,1967-06-11 05:00:00,Santiago,Bachillerato - Secundaria,82800
+160668,1972-02-28 05:00:00,Santiago,Profesional - Licenciatura,201541
+162143,1982-01-07 05:00:00,Rancagua,Tecnico Universitario,167426
+162148,1995-12-13 05:00:00,Santiago,Profesional - Licenciatura,208879
+162151,1980-06-18 05:00:00,Santiago,Profesional - Licenciatura,331474
+162156,1978-06-05 05:00:00,Santiago,Primaria,176549
+162161,7978-11-05 05:00:00,Santiago,Tecnico Universitario,193258
+162165,1987-09-22 05:00:00,Santiago,Bachillerato - Secundaria,328511
+162169,1983-02-06 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,246871
+162173,1978-10-09 05:00:00,Santiago,Tecnico Universitario,161179
+162176,1993-04-19 05:00:00,Santiago,Bachillerato - Secundaria,158904
+162177,1983-01-01 05:00:00,Santiago,Bachillerato - Secundaria,269184
+162178,1983-07-12 05:00:00,Santiago,Tecnico Universitario,286961
+162183,1995-01-13 05:00:00,Santiago,Tecnico Universitario,230114
+162187,1961-05-08 05:00:00,Santiago,Tecnico Universitario,334356
+162189,1970-05-30 05:00:00,Santiago,Profesional - Licenciatura,143039
+162191,1968-11-26 05:00:00,Santiago,Tecnico Universitario,165065
+162192,1992-02-23 05:00:00,Santiago,Bachillerato - Secundaria,194784
+162194,1985-05-11 05:00:00,Santiago,Primaria,80771
+162199,1988-02-18 05:00:00,Santiago,Tecnico Universitario,283059
+162203,1973-01-09 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,68415
+162209,1969-03-15 05:00:00,Santiago,Tecnico Universitario,215415
+162211,1995-08-08 05:00:00,Santiago,Profesional - Licenciatura,247198
+162214,1994-07-14 05:00:00,Santiago,Bachillerato - Secundaria,218470
+162216,1957-05-27 05:00:00,Santiago,Bachillerato - Secundaria,113657
+162221,1974-04-18 05:00:00,Santiago,Tecnico Universitario,110138
+162226,1977-07-08 05:00:00,Santiago,Bachillerato - Secundaria,182250
+162230,1969-12-04 05:00:00,Santiago,Tecnico Universitario,207056
+162232,1963-07-29 05:00:00,Santiago,Bachillerato - Secundaria,291568
+162244,1980-10-25 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,338215
+162249,1988-04-15 05:00:00,Santiago,Tecnico Universitario,289180
+162264,1959-07-30 05:00:00,Santiago,Bachillerato - Secundaria,293349
+162266,1975-05-12 05:00:00,Santiago,Primaria,115116
+162272,1970-03-24 05:00:00,Santiago,Bachillerato - Secundaria,101302
+162285,1982-01-17 05:00:00,Santiago,Tecnico Universitario,278469
+162290,1984-07-21 05:00:00,Santiago,Profesional - Licenciatura,138813
+162297,1993-03-22 05:00:00,Calama,Tecnico - Preparatoria - T. Profesional,104561
+162303,1987-03-12 05:00:00,Santiago,Profesional - Licenciatura,133138
+162304,1979-12-07 05:00:00,Osorno,Tecnico Universitario,306696
+162312,1967-09-20 05:00:00,Santiago,Tecnico Universitario,168536
+162313,1985-01-11 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,204702
+162316,1996-10-01 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,283995
+162325,1979-06-21 05:00:00,Santiago,Tecnico Universitario,295878
+162327,1976-09-10 05:00:00,Santiago,Profesional - Licenciatura,136970
+162328,1988-12-01 05:00:00,Santiago,Bachillerato - Secundaria,267902
+162329,1981-12-19 05:00:00,Santiago,Profesional - Licenciatura,83659
+162331,1977-09-03 05:00:00,Santiago,Tecnico Universitario,330064
+162336,1975-12-28 05:00:00,Santiago,Tecnico Universitario,286974
+162342,1988-05-12 05:00:00,Santiago,Tecnico Universitario,217896
+162344,1970-09-06 05:00:00,Santiago,Tecnico Universitario,259169
+162346,1992-05-10 05:00:00,Santiago,Bachillerato - Secundaria,225021
+162348,1968-06-02 05:00:00,Santiago,Tecnico Universitario,234672
+162351,1979-02-17 05:00:00,Santiago,Tecnico Universitario,255219
+162353,1995-11-29 05:00:00,Santiago,Profesional - Licenciatura,340477
+162354,1997-06-15 05:00:00,Santiago,Bachillerato - Secundaria,211831
+162355,1964-12-20 05:00:00,Santiago,Bachillerato - Secundaria,210391
+162356,1969-01-10 05:00:00,Santiago,Primaria,146007
+162357,1970-07-10 05:00:00,Santiago,Primaria,210186
+162359,1990-08-14 05:00:00,Santiago,Bachillerato - Secundaria,104436
+162361,1962-09-06 05:00:00,Santiago,Primaria,232266
+162365,1987-01-29 05:00:00,Santiago,Profesional - Licenciatura,266935
+162369,1983-10-27 05:00:00,Santiago,Tecnico Universitario,271903
+162372,1978-08-24 05:00:00,Santiago,Profesional - Licenciatura,302634
+162401,1974-10-23 05:00:00,Santiago,Tecnico Universitario,138569
+162405,1999-01-22 05:00:00,Santiago,Profesional - Licenciatura,268801
+162423,1995-08-18 05:00:00,Santiago,Bachillerato - Secundaria,187927
+162424,1999-12-19 05:00:00,Santiago,Tecnico Universitario,203879
+162428,1974-03-07 05:00:00,Santiago,Bachillerato - Secundaria,286435
+162440,1988-06-17 05:00:00,Santiago,Profesional - Licenciatura,139842
+162441,1994-07-17 05:00:00,Santiago,Primaria,334796
+162443,1996-08-10 05:00:00,Santiago,Profesional - Licenciatura,103368
+162444,1994-01-13 05:00:00,Santiago,Bachillerato - Secundaria,158738
+162445,1998-12-28 05:00:00,Santiago,Bachillerato - Secundaria,155762
+163406,1993-08-12 05:00:00,Santiago,Maestria,192715
+164106,1968-02-18 05:00:00,Santiago,Tecnico Universitario,267244
+164110,1972-11-20 05:00:00,Santiago,Tecnico Universitario,140195
+164111,1971-01-13 05:00:00,Santiago,Tecnico Universitario,272195
+164115,1966-07-01 05:00:00,Santiago,Bachillerato - Secundaria,243021
+164122,1966-06-01 05:00:00,Santiago,Bachillerato - Secundaria,295342
+164126,1969-01-03 05:00:00,Santiago,Profesional - Licenciatura,275488
+164129,1969-12-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,292577
+164132,1965-05-17 05:00:00,Santiago,Tecnico Universitario,215886
+164135,1971-11-03 05:00:00,Santiago,Tecnico Universitario,288341
+164136,1968-05-25 05:00:00,Santiago,Tecnico Universitario,281028
+164147,1969-04-01 05:00:00,Santiago,Bachillerato - Secundaria,245009
+164149,1967-05-16 05:00:00,Santiago,Tecnico Universitario,277415
+164159,1972-06-30 05:00:00,Santiago,Tecnico Universitario,293996
+164169,1973-01-07 05:00:00,Santiago,Tecnico Universitario,194445
+164170,1971-09-20 05:00:00,Santiago,Tecnico Universitario,332536
+164173,1973-05-09 05:00:00,Santiago,Tecnico Universitario,277790
+164177,1973-08-10 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,124183
+164181,1973-08-12 05:00:00,Chillan,Tecnico - Preparatoria - T. Profesional,133465
+164185,1974-06-27 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,334734
+164192,1974-12-28 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,127992
+164193,1974-10-24 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,286437
+164197,1976-02-27 05:00:00,Santiago,Bachillerato - Secundaria,242347
+164198,1976-02-03 05:00:00,Santiago,Bachillerato - Secundaria,278817
+164203,1975-12-14 05:00:00,Santiago,Tecnico Universitario,207291
+164208,1977-08-05 05:00:00,Santiago,Bachillerato - Secundaria,70453
+164224,1979-12-28 05:00:00,Santiago,Tecnico Universitario,206503
+164232,1981-01-23 05:00:00,Santiago,Bachillerato - Secundaria,133202
+164242,1974-08-21 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,132658
+164256,1982-01-23 05:00:00,Santiago,Tecnico Universitario,289612
+164263,1982-03-16 05:00:00,Santiago,Bachillerato - Secundaria,257166
+164270,1983-08-25 05:00:00,Santiago,Primaria,299355
+164273,1983-07-29 05:00:00,Santiago,Tecnico Universitario,333709
+164277,1984-03-01 05:00:00,Santiago,Profesional - Licenciatura,234198
+164279,1984-11-19 05:00:00,Santiago,Primaria,120178
+164280,1984-04-28 05:00:00,Santiago,Tecnico Universitario,176110
+164288,1986-03-26 05:00:00,Santiago,Bachillerato - Secundaria,104017
+164289,1986-12-12 05:00:00,Santiago,Profesional - Licenciatura,231843
+164291,1986-07-10 05:00:00,Santiago,Profesional - Licenciatura,275687
+164301,1986-12-17 05:00:00,Santiago,Bachillerato - Secundaria,209235
+164308,1988-09-07 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,340906
+164317,1989-05-12 05:00:00,Santiago,Tecnico Universitario,299699
+164325,1989-09-13 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,295158
+164329,1991-07-06 05:00:00,Rancagua,Primaria,314873
+164336,1990-07-08 05:00:00,Santiago,Bachillerato - Secundaria,337068
+164337,1991-03-28 05:00:00,Santiago,Profesional - Licenciatura,204149
+164342,1992-04-03 05:00:00,Santiago,Profesional - Licenciatura,216444
+164343,1991-08-26 05:00:00,Santiago,Bachillerato - Secundaria,103907
+164346,1992-07-16 05:00:00,Santiago,Tecnico Universitario,163236
+164351,1993-10-07 05:00:00,Santiago,Tecnico Universitario,336131
+164355,1994-03-11 05:00:00,Santiago,Bachillerato - Secundaria,211485
+164371,1956-09-11 05:00:00,Santiago,Primaria,338413
+164373,1957-05-03 05:00:00,Santiago,Tecnico Universitario,206877
+164377,1964-02-21 05:00:00,Santiago,Especializacion - Postgrado,306470
+164405,1976-05-22 05:00:00,Santiago,Profesional - Licenciatura,282641
+164406,1980-08-18 05:00:00,Santiago,Bachillerato - Secundaria,280208
+164408,1980-12-11 05:00:00,Santiago,Bachillerato - Secundaria,158424
+164413,1986-06-10 05:00:00,Santiago,Primaria,71823
+164415,1990-11-15 05:00:00,Santiago,Profesional - Licenciatura,158399
+164420,1980-08-08 05:00:00,Santiago,Profesional - Licenciatura,309291
+164424,1986-07-12 05:00:00,Santiago,Profesional - Licenciatura,121611
+164425,1985-12-12 05:00:00,Santiago,Tecnico - Preparatoria - T. Profesional,205460
+164426,1986-05-06 05:00:00,Santiago,Maestria,298611
+164432,1990-08-20 05:00:00,Santiago,Profesional - Licenciatura,259720
+164436,1992-06-04 05:00:00,Santiago,Profesional - Licenciatura,175981
+164448,1995-07-17 05:00:00,Santiago,Profesional - Licenciatura,301466
+164450,1993-11-18 05:00:00,Santiago,Profesional - Licenciatura,271875
+164451,1994-01-25 05:00:00,Santiago,Profesional - Licenciatura,248788
+164634,1991-04-26 05:00:00,Santiago,Profesional - Licenciatura,98856
+168775,1986-12-31 05:00:00,Santiago,Profesional - Licenciatura,71578
+168811,1988-12-25 05:00:00,Santiago,Profesional - Licenciatura,87775
